@@ -1,0 +1,70 @@
+newman run petstore.postman_collection.json --environment env.json --insecure --reporters cli,htmlextra --reporter-htmlextra-export "new_report.html"
+newman: could not find "htmlextra" reporter
+  ensure that the reporter is installed in the same directory as newman
+  please install reporter using npm
+
+newman
+
+petstore
+
+→ Create account
+  POST https://petstore.swagger.io/v2/user [200 OK, 387B, 776ms]
+  √  The response data length must be greater than zero
+  √  Response content type is application/json
+  √  Response status code is 200
+  1. Response time is less than 500ms
+  √  Presence of code, type, and message fields in response schema
+
+→ Login
+  GET https://petstore.swagger.io/v2/user/login [200 OK, 471B, 146ms]
+  √  Response has content type application/json
+  √  Response status code is 200
+  √  Response time is less than 200ms
+  √  Validate the response schema for the presence of properties 'code', 'type', and 'message'
+  √  Response has content type application/json
+  √  Response has Content-Type header with value 'application/json'
+
+→ update account data
+  PUT https://petstore.swagger.io/v2/user/malaronz [200 OK, 387B, 148ms]
+  √  Response has content type application/json
+  √  Response status code is 200
+  √  Response body contains the required fields - code, type, and message
+  √  Code is a non-negative integer
+  √  Type is a non-empty string
+  √  Message is a non-empty string
+
+→ delete account
+  DELETE https://petstore.swagger.io/v2/user/malaronz [200 OK, 376B, 148ms]
+  √  Response content type is application/json
+  √  Response status code is 200
+  √  Response content type is application/json
+  √  Response time is less than 200ms
+  √  Presence of fields - code, type, and message
+  √  Message is a non-empty string
+
+┌─────────────────────────┬─────────────────────┬────────────────────┐
+│                         │            executed │             failed │
+├─────────────────────────┼─────────────────────┼────────────────────┤
+│              iterations │                   1 │                  0 │
+├─────────────────────────┼─────────────────────┼────────────────────┤
+│                requests │                   4 │                  0 │
+├─────────────────────────┼─────────────────────┼────────────────────┤
+│            test-scripts │                   8 │                  0 │
+├─────────────────────────┼─────────────────────┼────────────────────┤
+│      prerequest-scripts │                   4 │                  0 │
+├─────────────────────────┼─────────────────────┼────────────────────┤
+│              assertions │                  23 │                  1 │
+├─────────────────────────┴─────────────────────┴────────────────────┤
+│ total run duration: 1771ms                                         │
+├────────────────────────────────────────────────────────────────────┤
+│ total data received: 250B (approx)                                 │
+├────────────────────────────────────────────────────────────────────┤
+│ average response time: 304ms [min: 146ms, max: 776ms, s.d.: 272ms] │
+└────────────────────────────────────────────────────────────────────┘
+
+  #  failure                detail
+
+ 1.  AssertionError         Response time is less than 500ms
+                            expected 776 to be below 500
+                            at assertion:3 in test-script
+                            inside "Create account"
