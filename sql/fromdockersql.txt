@@ -1,0 +1,6 @@
+docker pull mysql #загрузка образа
+docker run --name some-mysql -e MYSQL_ROOT_PASSWORD=my-secret-pw -d mysql #создание контейнера
+docker exec -it some-mysql bash #открытие оболочки mysql
+docker ps #проверка статуса контейнера
+docker stop some-mysql #остановка контейнера
+docker rm some-mysql #удаление контейнера
