@@ -7,3 +7,4 @@
 e-mail: e.sheluddd@yandex.ru
 
 *****************************************
+[диплом.pdf](https://github.com/user-attachments/files/19851984/default.pdf)
