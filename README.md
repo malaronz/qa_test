@@ -1,109 +1,41 @@
-# 🧪 QA Engineer Portfolio - Егор Шелуднев
+# QA Engineer Portfolio - Егор Шелуднев
 
-## 👋 Обо мне
-QA Engineer с опытом автоматизации тестирования и комплексного подхода к обеспечению качества ПО. Выпускник Nordic IT School и участник Летних школ Яндекса.
+## Обо мне
+QA Engineer с опытом автоматизации тестирования. Выпускник Nordic IT School и участник Летних школ Яндекса.
 
----
+## Проекты
 
-## 🎓 Образование и сертификации
-
-- **Nordic IT School** - QA Engineer (2024-2025)
-- **Летние школы Яндекса** - Автоматизация тестирования (2025)
-
----
-
-## 🚀 Проекты
-
-### 📚 **Nordic** - Основной курс QA Engineer
+### Nordic - Основной курс QA Engineer
 *Nordic IT School, 2024-2025*
 
-Комплексный курс по тестированию ПО, включающий:
+Классические проекты по тестированию:
+- test_cases - Тест-кейсы и сценарии
+- bug_reports - Отчеты об ошибках
+- postman - API тестирование
+- sql - Тестирование баз данных
+- charles - Анализ сетевого трафика
+- client_server - Клиент-серверные приложения
+- bash_scripts - Скрипты автоматизации
+- bash_commands - Команды терминала
 
-- **📋 test_cases** - Тест-кейсы и сценарии тестирования
-- **🐛 bug_reports** - Отчеты об ошибках и баг-репорты
-- **🌐 postman** - API тестирование через Postman
-- **💾 sql** - Тестирование баз данных и SQL запросы
-- **🔍 charles** - Анализ сетевого трафика и прокси
-- **🖥️ client_server** - Тестирование клиент-серверных приложений
-- **📜 bash_scripts** - Скрипты автоматизации на Bash
-- **⌨️ bash_commands** - Полезные команды терминала
+**Навыки:** Manual Testing, API Testing, SQL, Network Analysis, Bash
 
-**Навыки:** Manual Testing, API Testing, SQL, Network Analysis, Bash Scripting
-
----
-
-### 🎯 **Yandex-school** - Автоматизация тестирования
+### Yandex-school - Автоматизация тестирования
 *Летние школы Яндекса, 2025*
 
-Современная коллекция автоматизированных тестов, демонстрирующая навыки автоматизации:
+Современные автоматизированные тесты:
+- API-tests - REST API тестирование на Python + pytest
+- Playwright-tests - E2E веб-тестирование на TypeScript
+- Testplane-tests - Визуальное тестирование веб-интерфейсов
+- iOS-tests - Автоматизированное тестирование iOS приложений + Allure
 
-- **🧪 API-tests** - REST API тестирование на Python + pytest
-  - Тестирование аутентификации и авторизации
-  - Валидация API эндпоинтов
-  - Параметризованные тесты
-  
-- **🌐 Playwright-tests** - E2E веб-тестирование на TypeScript
-  - Page Object Model архитектура
-  - Тестирование пользовательских сценариев
-  - Автоматические скриншоты и видео
-  
-- **📊 Testplane-tests** - Визуальное тестирование веб-интерфейсов
-  - Тестирование UI элементов
-  - Визуальная валидация
-  
-- **📱 iOS-tests** - Автоматизированное тестирование iOS приложений
-  - Xcode UI Testing
-  - Allure отчеты и аналитика
-  - Page Object Pattern
+**Навыки:** Python, TypeScript, Playwright, Testplane, iOS Testing, Allure
 
-**Навыки:** Python, TypeScript, Playwright, Testplane, iOS Testing, Allure, Test Automation
+## Технологии
+- **Тестирование:** Manual, API, Web, Mobile, Database
+- **Автоматизация:** Python, TypeScript, Bash
+- **Инструменты:** Postman, Charles Proxy, Xcode, Git
 
----
-
-## 🛠 Технологический стек
-
-### 🧪 Тестирование
-- **Manual Testing** - Функциональное, регрессионное, интеграционное
-- **API Testing** - REST API, Postman, Python + pytest
-- **Web Testing** - Playwright, Testplane, E2E тестирование
-- **Mobile Testing** - iOS UI Testing, Xcode
-- **Database Testing** - SQL, валидация данных
-
-### 🔧 Автоматизация
-- **Python** - pytest, requests, автоматизация API тестов
-- **TypeScript** - Playwright, современные веб-технологии
-- **Bash** - скрипты автоматизации, CI/CD
-- **Allure** - отчеты и аналитика тестирования
-
-### 🎯 Инструменты
-- **Charles Proxy** - анализ сетевого трафика
-- **Postman** - API тестирование и коллекции
-- **Git** - контроль версий и совместная работа
-- **Xcode** - iOS разработка и тестирование
-
----
-
-## 📊 Ключевые достижения
-
-✅ **389 файлов** автоматизированных тестов и проектов  
-✅ **4 направления** автоматизации (API, Web, Visual, iOS)  
-✅ **2 образовательные программы** с практическими проектами  
-✅ **Полное покрытие** тестирования от ручного до автоматизированного  
-
----
-
-## 📧 Контакты
-
+## Контакты
 **Email:** e.sheluddd@yandex.ru  
-**GitHub:** [malaronz](https://github.com/malaronz)  
-**LinkedIn:** [Егор Шелуднев](https://linkedin.com/in/egor-sheludnev)
-
----
-
-## 📄 Документация
-
-[📖 Полная документация проекта](https://github.com/malaronz/qa_test/blob/main/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F.pdf)
-
----
-
-*⭐ Этот репозиторий демонстрирует комплексный подход к QA и готовность к профессиональной работе в области автоматизации тестирования*
+**GitHub:** [malaronz](https://github.com/malaronz)
