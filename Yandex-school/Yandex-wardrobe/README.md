@@ -6,53 +6,25 @@
 ## 🧪 Тестовые сценарии
 
 ### Основные тесты образов
-- **testGraduationOutfit** - Тестирование образа "Выпускной"
-- **testOfficeOutfit** - Тестирование образа "Офис"  
-- **testAllOutfitsExpanded** - Проверка разворачивания всех образов
-
 ### Тесты взаимодействия
-- **testSwipeTests** - Тестирование свайпов и жестов
-- **testButtonClickability** - Проверка кликабельности кнопок
-- **testQuickCheck** - Быстрая проверка работоспособности
-
 ### Вспомогательные функции
-- **searchForTextInAllElements** - Поиск текста во всех элементах
-- **findExpandButton** - Поиск кнопки разворачивания
-- **testHorizontalScroll** - Горизонтальная прокрутка
-- **testVerticalScroll** - Вертикальная прокрутка
 
 ## 🏗️ Архитектура тестов
 
 ### Page Objects
-- **BasePageObject** - Базовый класс для страниц
-- **OutfitDetailScreenPageObject** - Страница деталей образа
-- **ProfileScreenPageObject** - Страница профиля
-- **WardrobeMainScreenPageObject** - Главная страница гардероба
+- **BasePageObject**
+- **OutfitDetailScreenPageObject**
+- **ProfileScreenPageObject**
+- **WardrobeMainScreenPageObject**
 
 ### Локаторы и утилиты
-- **Fixtures** - Тестовые данные
-- **Locators** - Локаторы элементов
-- **Utils** - Вспомогательные функции
+- **Fixtures**
+- **Locators**
+- **Utils**
 
-## 🚀 Запуск тестов
-```bash
-# В Xcode
-Product -> Test (⌘+U)
-
-# Через командную строку
-xcodebuild test -workspace Wardrobe.xcworkspace -scheme Wardrobe -destination 'platform=iOS Simulator,name=iPhone 15'
-```
 
 ## 📊 Покрытие тестирования
-- **UI элементы** - Кнопки, тексты, изображения
-- **Навигация** - Переходы между экранами
-- **Жесты** - Свайпы, тапы, долгие нажатия
-- **Валидация** - Проверка состояния элементов
-- **Обработка ошибок** - Проверка корректности переходов
-
-## 🎨 Тестируемый функционал
-- Конструктор образов одежды
-- Виртуальная примерка на фото
-- Персональный гардероб
-- Фильтрация и поиск вещей
-- Навигация по приложению
+- **UI элементы**
+- **Навигация**
+- **Жесты**
+- **Обработка ошибок**
