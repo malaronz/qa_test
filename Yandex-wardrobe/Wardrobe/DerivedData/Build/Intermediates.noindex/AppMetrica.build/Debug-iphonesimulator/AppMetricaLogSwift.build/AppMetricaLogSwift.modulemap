@@ -1,0 +1,4 @@
+module AppMetricaLogSwift {
+header "AppMetricaLogSwift-Swift.h"
+export *
+}

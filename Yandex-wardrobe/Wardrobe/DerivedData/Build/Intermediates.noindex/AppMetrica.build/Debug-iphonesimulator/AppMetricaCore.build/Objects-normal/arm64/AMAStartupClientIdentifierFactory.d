@@ -1,0 +1,25 @@
+dependencies: \
+  /Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/SourcePackages/checkouts/appmetrica-sdk-ios/AppMetricaCore/Sources/AMAStartupClientIdentifierFactory.m \
+  /Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/Build/Intermediates.noindex/AppMetrica.build/Debug-iphonesimulator/AppMetricaCore.build/DerivedSources/resource_bundle_accessor.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator.sdk/System/Library/Frameworks/Foundation.framework/Modules/module.modulemap \
+  /Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/SourcePackages/checkouts/appmetrica-sdk-ios/AppMetricaCore/Sources/AMAStartupClientIdentifierFactory.h \
+  /Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/SourcePackages/checkouts/appmetrica-sdk-ios/AppMetricaCore/Sources/Configuration/AMAMetricaConfiguration.h \
+  /Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/SourcePackages/checkouts/appmetrica-sdk-ios/AppMetricaCore/Sources/Configuration/AMAMetricaPersistentConfiguration.h \
+  /Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/SourcePackages/checkouts/appmetrica-sdk-ios/AppMetricaCore/Sources/include/AppMetricaCore/AppMetricaCore.h \
+  /Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/SourcePackages/checkouts/appmetrica-sdk-ios/AppMetricaCore/Sources/include/AppMetricaCore/AMAAdRevenueInfo.h \
+  /Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/SourcePackages/checkouts/appmetrica-sdk-ios/AppMetricaCore/Sources/include/AppMetricaCore/AMAAppMetrica.h \
+  /Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/SourcePackages/checkouts/appmetrica-sdk-ios/AppMetricaCore/Sources/include/AppMetricaCore/AMAAppMetricaConfiguration.h \
+  /Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/SourcePackages/checkouts/appmetrica-sdk-ios/AppMetricaCore/Sources/include/AppMetricaCore/AMAAppMetricaPreloadInfo.h \
+  /Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/SourcePackages/checkouts/appmetrica-sdk-ios/AppMetricaCore/Sources/include/AppMetricaCore/AMAAppMetricaReporting.h \
+  /Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/SourcePackages/checkouts/appmetrica-sdk-ios/AppMetricaCore/Sources/include/AppMetricaCore/AMAECommerce.h \
+  /Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/SourcePackages/checkouts/appmetrica-sdk-ios/AppMetricaCore/Sources/include/AppMetricaCore/AMAJSControlling.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator.sdk/System/Cryptexes/OS/System/Library/Frameworks/WebKit.framework/Modules/module.modulemap \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator.sdk/System/Library/Frameworks/UIKit.framework/Modules/module.modulemap \
+  /Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/SourcePackages/checkouts/appmetrica-sdk-ios/AppMetricaCore/Sources/include/AppMetricaCore/AMAProfileAttribute.h \
+  /Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/SourcePackages/checkouts/appmetrica-sdk-ios/AppMetricaCore/Sources/include/AppMetricaCore/AMAReporterConfiguration.h \
+  /Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/SourcePackages/checkouts/appmetrica-sdk-ios/AppMetricaCore/Sources/include/AppMetricaCore/AMARevenueInfo.h \
+  /Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/SourcePackages/checkouts/appmetrica-sdk-ios/AppMetricaCore/Sources/include/AppMetricaCore/AMAUserProfile.h \
+  /Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/SourcePackages/checkouts/appmetrica-sdk-ios/AppMetricaCore/Sources/AMAStartupClientIdentifier.h \
+  /Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/Build/Intermediates.noindex/GeneratedModuleMaps-iphonesimulator/AppMetricaIdentifiers.modulemap \
+  /Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/Build/Intermediates.noindex/GeneratedModuleMaps-iphonesimulator/AppMetricaPlatform.modulemap \
+  /Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/Build/Intermediates.noindex/GeneratedModuleMaps-iphonesimulator/AppMetricaCoreUtils.modulemap

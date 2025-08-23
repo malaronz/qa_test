@@ -1,0 +1,298 @@
+{
+  "" : {
+    "diagnostics" : "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/Build/Intermediates.noindex/AppMetrica.build/Debug-iphonesimulator/AppMetricaIdentifiers.build/Objects-normal/arm64/AppMetricaIdentifiers-master.dia",
+    "emit-module-dependencies" : "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/Build/Intermediates.noindex/AppMetrica.build/Debug-iphonesimulator/AppMetricaIdentifiers.build/Objects-normal/arm64/AppMetricaIdentifiers-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/Build/Intermediates.noindex/AppMetrica.build/Debug-iphonesimulator/AppMetricaIdentifiers.build/Objects-normal/arm64/AppMetricaIdentifiers-master-emit-module.dia",
+    "swift-dependencies" : "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/Build/Intermediates.noindex/AppMetrica.build/Debug-iphonesimulator/AppMetricaIdentifiers.build/Objects-normal/arm64/AppMetricaIdentifiers-master.swiftdeps"
+  },
+  "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/Build/Intermediates.noindex/AppMetrica.build/Debug-iphonesimulator/AppMetricaIdentifiers.build/DerivedSources/resource_bundle_accessor.swift" : {
+    "const-values" : "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/Build/Intermediates.noindex/AppMetrica.build/Debug-iphonesimulator/AppMetricaIdentifiers.build/Objects-normal/arm64/resource_bundle_accessor.swiftconstvalues",
+    "dependencies" : "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/Build/Intermediates.noindex/AppMetrica.build/Debug-iphonesimulator/AppMetricaIdentifiers.build/Objects-normal/arm64/resource_bundle_accessor.d",
+    "diagnostics" : "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/Build/Intermediates.noindex/AppMetrica.build/Debug-iphonesimulator/AppMetricaIdentifiers.build/Objects-normal/arm64/resource_bundle_accessor.dia",
+    "index-unit-output-path" : "/AppMetrica.build/Debug-iphonesimulator/AppMetricaIdentifiers.build/Objects-normal/arm64/resource_bundle_accessor.o",
+    "llvm-bc" : "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/Build/Intermediates.noindex/AppMetrica.build/Debug-iphonesimulator/AppMetricaIdentifiers.build/Objects-normal/arm64/resource_bundle_accessor.bc",
+    "object" : "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/Build/Intermediates.noindex/AppMetrica.build/Debug-iphonesimulator/AppMetricaIdentifiers.build/Objects-normal/arm64/resource_bundle_accessor.o",
+    "swift-dependencies" : "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/Build/Intermediates.noindex/AppMetrica.build/Debug-iphonesimulator/AppMetricaIdentifiers.build/Objects-normal/arm64/resource_bundle_accessor.swiftdeps",
+    "swiftmodule" : "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/Build/Intermediates.noindex/AppMetrica.build/Debug-iphonesimulator/AppMetricaIdentifiers.build/Objects-normal/arm64/resource_bundle_accessor~partial.swiftmodule"
+  },
+  "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/SourcePackages/checkouts/appmetrica-sdk-ios/AppMetricaIdentifiers/Sources/AppMetricaIdentifiersLog.swift" : {
+    "const-values" : "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/Build/Intermediates.noindex/AppMetrica.build/Debug-iphonesimulator/AppMetricaIdentifiers.build/Objects-normal/arm64/AppMetricaIdentifiersLog.swiftconstvalues",
+    "dependencies" : "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/Build/Intermediates.noindex/AppMetrica.build/Debug-iphonesimulator/AppMetricaIdentifiers.build/Objects-normal/arm64/AppMetricaIdentifiersLog.d",
+    "diagnostics" : "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/Build/Intermediates.noindex/AppMetrica.build/Debug-iphonesimulator/AppMetricaIdentifiers.build/Objects-normal/arm64/AppMetricaIdentifiersLog.dia",
+    "index-unit-output-path" : "/AppMetrica.build/Debug-iphonesimulator/AppMetricaIdentifiers.build/Objects-normal/arm64/AppMetricaIdentifiersLog.o",
+    "llvm-bc" : "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/Build/Intermediates.noindex/AppMetrica.build/Debug-iphonesimulator/AppMetricaIdentifiers.build/Objects-normal/arm64/AppMetricaIdentifiersLog.bc",
+    "object" : "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/Build/Intermediates.noindex/AppMetrica.build/Debug-iphonesimulator/AppMetricaIdentifiers.build/Objects-normal/arm64/AppMetricaIdentifiersLog.o",
+    "swift-dependencies" : "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/Build/Intermediates.noindex/AppMetrica.build/Debug-iphonesimulator/AppMetricaIdentifiers.build/Objects-normal/arm64/AppMetricaIdentifiersLog.swiftdeps",
+    "swiftmodule" : "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/Build/Intermediates.noindex/AppMetrica.build/Debug-iphonesimulator/AppMetricaIdentifiers.build/Objects-normal/arm64/AppMetricaIdentifiersLog~partial.swiftmodule"
+  },
+  "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/SourcePackages/checkouts/appmetrica-sdk-ios/AppMetricaIdentifiers/Sources/Generators/AppMetricaUUIDGenerator.swift" : {
+    "const-values" : "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/Build/Intermediates.noindex/AppMetrica.build/Debug-iphonesimulator/AppMetricaIdentifiers.build/Objects-normal/arm64/AppMetricaUUIDGenerator.swiftconstvalues",
+    "dependencies" : "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/Build/Intermediates.noindex/AppMetrica.build/Debug-iphonesimulator/AppMetricaIdentifiers.build/Objects-normal/arm64/AppMetricaUUIDGenerator.d",
+    "diagnostics" : "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/Build/Intermediates.noindex/AppMetrica.build/Debug-iphonesimulator/AppMetricaIdentifiers.build/Objects-normal/arm64/AppMetricaUUIDGenerator.dia",
+    "index-unit-output-path" : "/AppMetrica.build/Debug-iphonesimulator/AppMetricaIdentifiers.build/Objects-normal/arm64/AppMetricaUUIDGenerator.o",
+    "llvm-bc" : "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/Build/Intermediates.noindex/AppMetrica.build/Debug-iphonesimulator/AppMetricaIdentifiers.build/Objects-normal/arm64/AppMetricaUUIDGenerator.bc",
+    "object" : "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/Build/Intermediates.noindex/AppMetrica.build/Debug-iphonesimulator/AppMetricaIdentifiers.build/Objects-normal/arm64/AppMetricaUUIDGenerator.o",
+    "swift-dependencies" : "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/Build/Intermediates.noindex/AppMetrica.build/Debug-iphonesimulator/AppMetricaIdentifiers.build/Objects-normal/arm64/AppMetricaUUIDGenerator.swiftdeps",
+    "swiftmodule" : "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/Build/Intermediates.noindex/AppMetrica.build/Debug-iphonesimulator/AppMetricaIdentifiers.build/Objects-normal/arm64/AppMetricaUUIDGenerator~partial.swiftmodule"
+  },
+  "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/SourcePackages/checkouts/appmetrica-sdk-ios/AppMetricaIdentifiers/Sources/Generators/DeviceIDGenerator.swift" : {
+    "const-values" : "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/Build/Intermediates.noindex/AppMetrica.build/Debug-iphonesimulator/AppMetricaIdentifiers.build/Objects-normal/arm64/DeviceIDGenerator.swiftconstvalues",
+    "dependencies" : "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/Build/Intermediates.noindex/AppMetrica.build/Debug-iphonesimulator/AppMetricaIdentifiers.build/Objects-normal/arm64/DeviceIDGenerator.d",
+    "diagnostics" : "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/Build/Intermediates.noindex/AppMetrica.build/Debug-iphonesimulator/AppMetricaIdentifiers.build/Objects-normal/arm64/DeviceIDGenerator.dia",
+    "index-unit-output-path" : "/AppMetrica.build/Debug-iphonesimulator/AppMetricaIdentifiers.build/Objects-normal/arm64/DeviceIDGenerator.o",
+    "llvm-bc" : "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/Build/Intermediates.noindex/AppMetrica.build/Debug-iphonesimulator/AppMetricaIdentifiers.build/Objects-normal/arm64/DeviceIDGenerator.bc",
+    "object" : "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/Build/Intermediates.noindex/AppMetrica.build/Debug-iphonesimulator/AppMetricaIdentifiers.build/Objects-normal/arm64/DeviceIDGenerator.o",
+    "swift-dependencies" : "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/Build/Intermediates.noindex/AppMetrica.build/Debug-iphonesimulator/AppMetricaIdentifiers.build/Objects-normal/arm64/DeviceIDGenerator.swiftdeps",
+    "swiftmodule" : "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/Build/Intermediates.noindex/AppMetrica.build/Debug-iphonesimulator/AppMetricaIdentifiers.build/Objects-normal/arm64/DeviceIDGenerator~partial.swiftmodule"
+  },
+  "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/SourcePackages/checkouts/appmetrica-sdk-ios/AppMetricaIdentifiers/Sources/Generators/IdentifierForVendorGenerator.swift" : {
+    "const-values" : "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/Build/Intermediates.noindex/AppMetrica.build/Debug-iphonesimulator/AppMetricaIdentifiers.build/Objects-normal/arm64/IdentifierForVendorGenerator.swiftconstvalues",
+    "dependencies" : "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/Build/Intermediates.noindex/AppMetrica.build/Debug-iphonesimulator/AppMetricaIdentifiers.build/Objects-normal/arm64/IdentifierForVendorGenerator.d",
+    "diagnostics" : "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/Build/Intermediates.noindex/AppMetrica.build/Debug-iphonesimulator/AppMetricaIdentifiers.build/Objects-normal/arm64/IdentifierForVendorGenerator.dia",
+    "index-unit-output-path" : "/AppMetrica.build/Debug-iphonesimulator/AppMetricaIdentifiers.build/Objects-normal/arm64/IdentifierForVendorGenerator.o",
+    "llvm-bc" : "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/Build/Intermediates.noindex/AppMetrica.build/Debug-iphonesimulator/AppMetricaIdentifiers.build/Objects-normal/arm64/IdentifierForVendorGenerator.bc",
+    "object" : "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/Build/Intermediates.noindex/AppMetrica.build/Debug-iphonesimulator/AppMetricaIdentifiers.build/Objects-normal/arm64/IdentifierForVendorGenerator.o",
+    "swift-dependencies" : "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/Build/Intermediates.noindex/AppMetrica.build/Debug-iphonesimulator/AppMetricaIdentifiers.build/Objects-normal/arm64/IdentifierForVendorGenerator.swiftdeps",
+    "swiftmodule" : "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/Build/Intermediates.noindex/AppMetrica.build/Debug-iphonesimulator/AppMetricaIdentifiers.build/Objects-normal/arm64/IdentifierForVendorGenerator~partial.swiftmodule"
+  },
+  "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/SourcePackages/checkouts/appmetrica-sdk-ios/AppMetricaIdentifiers/Sources/Generators/RandomAppMetricaUUIDGenerator.swift" : {
+    "const-values" : "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/Build/Intermediates.noindex/AppMetrica.build/Debug-iphonesimulator/AppMetricaIdentifiers.build/Objects-normal/arm64/RandomAppMetricaUUIDGenerator.swiftconstvalues",
+    "dependencies" : "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/Build/Intermediates.noindex/AppMetrica.build/Debug-iphonesimulator/AppMetricaIdentifiers.build/Objects-normal/arm64/RandomAppMetricaUUIDGenerator.d",
+    "diagnostics" : "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/Build/Intermediates.noindex/AppMetrica.build/Debug-iphonesimulator/AppMetricaIdentifiers.build/Objects-normal/arm64/RandomAppMetricaUUIDGenerator.dia",
+    "index-unit-output-path" : "/AppMetrica.build/Debug-iphonesimulator/AppMetricaIdentifiers.build/Objects-normal/arm64/RandomAppMetricaUUIDGenerator.o",
+    "llvm-bc" : "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/Build/Intermediates.noindex/AppMetrica.build/Debug-iphonesimulator/AppMetricaIdentifiers.build/Objects-normal/arm64/RandomAppMetricaUUIDGenerator.bc",
+    "object" : "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/Build/Intermediates.noindex/AppMetrica.build/Debug-iphonesimulator/AppMetricaIdentifiers.build/Objects-normal/arm64/RandomAppMetricaUUIDGenerator.o",
+    "swift-dependencies" : "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/Build/Intermediates.noindex/AppMetrica.build/Debug-iphonesimulator/AppMetricaIdentifiers.build/Objects-normal/arm64/RandomAppMetricaUUIDGenerator.swiftdeps",
+    "swiftmodule" : "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/Build/Intermediates.noindex/AppMetrica.build/Debug-iphonesimulator/AppMetricaIdentifiers.build/Objects-normal/arm64/RandomAppMetricaUUIDGenerator~partial.swiftmodule"
+  },
+  "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/SourcePackages/checkouts/appmetrica-sdk-ios/AppMetricaIdentifiers/Sources/IdentifierStorage/IdentifierStorageError.swift" : {
+    "const-values" : "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/Build/Intermediates.noindex/AppMetrica.build/Debug-iphonesimulator/AppMetricaIdentifiers.build/Objects-normal/arm64/IdentifierStorageError.swiftconstvalues",
+    "dependencies" : "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/Build/Intermediates.noindex/AppMetrica.build/Debug-iphonesimulator/AppMetricaIdentifiers.build/Objects-normal/arm64/IdentifierStorageError.d",
+    "diagnostics" : "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/Build/Intermediates.noindex/AppMetrica.build/Debug-iphonesimulator/AppMetricaIdentifiers.build/Objects-normal/arm64/IdentifierStorageError.dia",
+    "index-unit-output-path" : "/AppMetrica.build/Debug-iphonesimulator/AppMetricaIdentifiers.build/Objects-normal/arm64/IdentifierStorageError.o",
+    "llvm-bc" : "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/Build/Intermediates.noindex/AppMetrica.build/Debug-iphonesimulator/AppMetricaIdentifiers.build/Objects-normal/arm64/IdentifierStorageError.bc",
+    "object" : "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/Build/Intermediates.noindex/AppMetrica.build/Debug-iphonesimulator/AppMetricaIdentifiers.build/Objects-normal/arm64/IdentifierStorageError.o",
+    "swift-dependencies" : "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/Build/Intermediates.noindex/AppMetrica.build/Debug-iphonesimulator/AppMetricaIdentifiers.build/Objects-normal/arm64/IdentifierStorageError.swiftdeps",
+    "swiftmodule" : "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/Build/Intermediates.noindex/AppMetrica.build/Debug-iphonesimulator/AppMetricaIdentifiers.build/Objects-normal/arm64/IdentifierStorageError~partial.swiftmodule"
+  },
+  "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/SourcePackages/checkouts/appmetrica-sdk-ios/AppMetricaIdentifiers/Sources/IdentifierStorage/IdentifiersCodingKeys.swift" : {
+    "const-values" : "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/Build/Intermediates.noindex/AppMetrica.build/Debug-iphonesimulator/AppMetricaIdentifiers.build/Objects-normal/arm64/IdentifiersCodingKeys.swiftconstvalues",
+    "dependencies" : "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/Build/Intermediates.noindex/AppMetrica.build/Debug-iphonesimulator/AppMetricaIdentifiers.build/Objects-normal/arm64/IdentifiersCodingKeys.d",
+    "diagnostics" : "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/Build/Intermediates.noindex/AppMetrica.build/Debug-iphonesimulator/AppMetricaIdentifiers.build/Objects-normal/arm64/IdentifiersCodingKeys.dia",
+    "index-unit-output-path" : "/AppMetrica.build/Debug-iphonesimulator/AppMetricaIdentifiers.build/Objects-normal/arm64/IdentifiersCodingKeys.o",
+    "llvm-bc" : "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/Build/Intermediates.noindex/AppMetrica.build/Debug-iphonesimulator/AppMetricaIdentifiers.build/Objects-normal/arm64/IdentifiersCodingKeys.bc",
+    "object" : "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/Build/Intermediates.noindex/AppMetrica.build/Debug-iphonesimulator/AppMetricaIdentifiers.build/Objects-normal/arm64/IdentifiersCodingKeys.o",
+    "swift-dependencies" : "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/Build/Intermediates.noindex/AppMetrica.build/Debug-iphonesimulator/AppMetricaIdentifiers.build/Objects-normal/arm64/IdentifiersCodingKeys.swiftdeps",
+    "swiftmodule" : "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/Build/Intermediates.noindex/AppMetrica.build/Debug-iphonesimulator/AppMetricaIdentifiers.build/Objects-normal/arm64/IdentifiersCodingKeys~partial.swiftmodule"
+  },
+  "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/SourcePackages/checkouts/appmetrica-sdk-ios/AppMetricaIdentifiers/Sources/IdentifierStorage/IdentifiersStorable.swift" : {
+    "const-values" : "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/Build/Intermediates.noindex/AppMetrica.build/Debug-iphonesimulator/AppMetricaIdentifiers.build/Objects-normal/arm64/IdentifiersStorable.swiftconstvalues",
+    "dependencies" : "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/Build/Intermediates.noindex/AppMetrica.build/Debug-iphonesimulator/AppMetricaIdentifiers.build/Objects-normal/arm64/IdentifiersStorable.d",
+    "diagnostics" : "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/Build/Intermediates.noindex/AppMetrica.build/Debug-iphonesimulator/AppMetricaIdentifiers.build/Objects-normal/arm64/IdentifiersStorable.dia",
+    "index-unit-output-path" : "/AppMetrica.build/Debug-iphonesimulator/AppMetricaIdentifiers.build/Objects-normal/arm64/IdentifiersStorable.o",
+    "llvm-bc" : "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/Build/Intermediates.noindex/AppMetrica.build/Debug-iphonesimulator/AppMetricaIdentifiers.build/Objects-normal/arm64/IdentifiersStorable.bc",
+    "object" : "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/Build/Intermediates.noindex/AppMetrica.build/Debug-iphonesimulator/AppMetricaIdentifiers.build/Objects-normal/arm64/IdentifiersStorable.o",
+    "swift-dependencies" : "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/Build/Intermediates.noindex/AppMetrica.build/Debug-iphonesimulator/AppMetricaIdentifiers.build/Objects-normal/arm64/IdentifiersStorable.swiftdeps",
+    "swiftmodule" : "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/Build/Intermediates.noindex/AppMetrica.build/Debug-iphonesimulator/AppMetricaIdentifiers.build/Objects-normal/arm64/IdentifiersStorable~partial.swiftmodule"
+  },
+  "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/SourcePackages/checkouts/appmetrica-sdk-ios/AppMetricaIdentifiers/Sources/IdentifierStorage/IdentifiersStorageData.swift" : {
+    "const-values" : "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/Build/Intermediates.noindex/AppMetrica.build/Debug-iphonesimulator/AppMetricaIdentifiers.build/Objects-normal/arm64/IdentifiersStorageData.swiftconstvalues",
+    "dependencies" : "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/Build/Intermediates.noindex/AppMetrica.build/Debug-iphonesimulator/AppMetricaIdentifiers.build/Objects-normal/arm64/IdentifiersStorageData.d",
+    "diagnostics" : "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/Build/Intermediates.noindex/AppMetrica.build/Debug-iphonesimulator/AppMetricaIdentifiers.build/Objects-normal/arm64/IdentifiersStorageData.dia",
+    "index-unit-output-path" : "/AppMetrica.build/Debug-iphonesimulator/AppMetricaIdentifiers.build/Objects-normal/arm64/IdentifiersStorageData.o",
+    "llvm-bc" : "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/Build/Intermediates.noindex/AppMetrica.build/Debug-iphonesimulator/AppMetricaIdentifiers.build/Objects-normal/arm64/IdentifiersStorageData.bc",
+    "object" : "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/Build/Intermediates.noindex/AppMetrica.build/Debug-iphonesimulator/AppMetricaIdentifiers.build/Objects-normal/arm64/IdentifiersStorageData.o",
+    "swift-dependencies" : "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/Build/Intermediates.noindex/AppMetrica.build/Debug-iphonesimulator/AppMetricaIdentifiers.build/Objects-normal/arm64/IdentifiersStorageData.swiftdeps",
+    "swiftmodule" : "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/Build/Intermediates.noindex/AppMetrica.build/Debug-iphonesimulator/AppMetricaIdentifiers.build/Objects-normal/arm64/IdentifiersStorageData~partial.swiftmodule"
+  },
+  "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/SourcePackages/checkouts/appmetrica-sdk-ios/AppMetricaIdentifiers/Sources/IdentifierStorage/JSONIdentifiersStorage.swift" : {
+    "const-values" : "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/Build/Intermediates.noindex/AppMetrica.build/Debug-iphonesimulator/AppMetricaIdentifiers.build/Objects-normal/arm64/JSONIdentifiersStorage.swiftconstvalues",
+    "dependencies" : "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/Build/Intermediates.noindex/AppMetrica.build/Debug-iphonesimulator/AppMetricaIdentifiers.build/Objects-normal/arm64/JSONIdentifiersStorage.d",
+    "diagnostics" : "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/Build/Intermediates.noindex/AppMetrica.build/Debug-iphonesimulator/AppMetricaIdentifiers.build/Objects-normal/arm64/JSONIdentifiersStorage.dia",
+    "index-unit-output-path" : "/AppMetrica.build/Debug-iphonesimulator/AppMetricaIdentifiers.build/Objects-normal/arm64/JSONIdentifiersStorage.o",
+    "llvm-bc" : "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/Build/Intermediates.noindex/AppMetrica.build/Debug-iphonesimulator/AppMetricaIdentifiers.build/Objects-normal/arm64/JSONIdentifiersStorage.bc",
+    "object" : "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/Build/Intermediates.noindex/AppMetrica.build/Debug-iphonesimulator/AppMetricaIdentifiers.build/Objects-normal/arm64/JSONIdentifiersStorage.o",
+    "swift-dependencies" : "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/Build/Intermediates.noindex/AppMetrica.build/Debug-iphonesimulator/AppMetricaIdentifiers.build/Objects-normal/arm64/JSONIdentifiersStorage.swiftdeps",
+    "swiftmodule" : "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/Build/Intermediates.noindex/AppMetrica.build/Debug-iphonesimulator/AppMetricaIdentifiers.build/Objects-normal/arm64/JSONIdentifiersStorage~partial.swiftmodule"
+  },
+  "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/SourcePackages/checkouts/appmetrica-sdk-ios/AppMetricaIdentifiers/Sources/IdentifierStorage/KeychainIdentifiersStorage.swift" : {
+    "const-values" : "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/Build/Intermediates.noindex/AppMetrica.build/Debug-iphonesimulator/AppMetricaIdentifiers.build/Objects-normal/arm64/KeychainIdentifiersStorage.swiftconstvalues",
+    "dependencies" : "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/Build/Intermediates.noindex/AppMetrica.build/Debug-iphonesimulator/AppMetricaIdentifiers.build/Objects-normal/arm64/KeychainIdentifiersStorage.d",
+    "diagnostics" : "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/Build/Intermediates.noindex/AppMetrica.build/Debug-iphonesimulator/AppMetricaIdentifiers.build/Objects-normal/arm64/KeychainIdentifiersStorage.dia",
+    "index-unit-output-path" : "/AppMetrica.build/Debug-iphonesimulator/AppMetricaIdentifiers.build/Objects-normal/arm64/KeychainIdentifiersStorage.o",
+    "llvm-bc" : "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/Build/Intermediates.noindex/AppMetrica.build/Debug-iphonesimulator/AppMetricaIdentifiers.build/Objects-normal/arm64/KeychainIdentifiersStorage.bc",
+    "object" : "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/Build/Intermediates.noindex/AppMetrica.build/Debug-iphonesimulator/AppMetricaIdentifiers.build/Objects-normal/arm64/KeychainIdentifiersStorage.o",
+    "swift-dependencies" : "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/Build/Intermediates.noindex/AppMetrica.build/Debug-iphonesimulator/AppMetricaIdentifiers.build/Objects-normal/arm64/KeychainIdentifiersStorage.swiftdeps",
+    "swiftmodule" : "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/Build/Intermediates.noindex/AppMetrica.build/Debug-iphonesimulator/AppMetricaIdentifiers.build/Objects-normal/arm64/KeychainIdentifiersStorage~partial.swiftmodule"
+  },
+  "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/SourcePackages/checkouts/appmetrica-sdk-ios/AppMetricaIdentifiers/Sources/IdentifierStorage/ReadOnlyKeyValueIdentifiersStorage.swift" : {
+    "const-values" : "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/Build/Intermediates.noindex/AppMetrica.build/Debug-iphonesimulator/AppMetricaIdentifiers.build/Objects-normal/arm64/ReadOnlyKeyValueIdentifiersStorage.swiftconstvalues",
+    "dependencies" : "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/Build/Intermediates.noindex/AppMetrica.build/Debug-iphonesimulator/AppMetricaIdentifiers.build/Objects-normal/arm64/ReadOnlyKeyValueIdentifiersStorage.d",
+    "diagnostics" : "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/Build/Intermediates.noindex/AppMetrica.build/Debug-iphonesimulator/AppMetricaIdentifiers.build/Objects-normal/arm64/ReadOnlyKeyValueIdentifiersStorage.dia",
+    "index-unit-output-path" : "/AppMetrica.build/Debug-iphonesimulator/AppMetricaIdentifiers.build/Objects-normal/arm64/ReadOnlyKeyValueIdentifiersStorage.o",
+    "llvm-bc" : "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/Build/Intermediates.noindex/AppMetrica.build/Debug-iphonesimulator/AppMetricaIdentifiers.build/Objects-normal/arm64/ReadOnlyKeyValueIdentifiersStorage.bc",
+    "object" : "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/Build/Intermediates.noindex/AppMetrica.build/Debug-iphonesimulator/AppMetricaIdentifiers.build/Objects-normal/arm64/ReadOnlyKeyValueIdentifiersStorage.o",
+    "swift-dependencies" : "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/Build/Intermediates.noindex/AppMetrica.build/Debug-iphonesimulator/AppMetricaIdentifiers.build/Objects-normal/arm64/ReadOnlyKeyValueIdentifiersStorage.swiftdeps",
+    "swiftmodule" : "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/Build/Intermediates.noindex/AppMetrica.build/Debug-iphonesimulator/AppMetricaIdentifiers.build/Objects-normal/arm64/ReadOnlyKeyValueIdentifiersStorage~partial.swiftmodule"
+  },
+  "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/SourcePackages/checkouts/appmetrica-sdk-ios/AppMetricaIdentifiers/Sources/IdentifierStorage/VendorKeychainIdentifiersStorage.swift" : {
+    "const-values" : "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/Build/Intermediates.noindex/AppMetrica.build/Debug-iphonesimulator/AppMetricaIdentifiers.build/Objects-normal/arm64/VendorKeychainIdentifiersStorage.swiftconstvalues",
+    "dependencies" : "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/Build/Intermediates.noindex/AppMetrica.build/Debug-iphonesimulator/AppMetricaIdentifiers.build/Objects-normal/arm64/VendorKeychainIdentifiersStorage.d",
+    "diagnostics" : "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/Build/Intermediates.noindex/AppMetrica.build/Debug-iphonesimulator/AppMetricaIdentifiers.build/Objects-normal/arm64/VendorKeychainIdentifiersStorage.dia",
+    "index-unit-output-path" : "/AppMetrica.build/Debug-iphonesimulator/AppMetricaIdentifiers.build/Objects-normal/arm64/VendorKeychainIdentifiersStorage.o",
+    "llvm-bc" : "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/Build/Intermediates.noindex/AppMetrica.build/Debug-iphonesimulator/AppMetricaIdentifiers.build/Objects-normal/arm64/VendorKeychainIdentifiersStorage.bc",
+    "object" : "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/Build/Intermediates.noindex/AppMetrica.build/Debug-iphonesimulator/AppMetricaIdentifiers.build/Objects-normal/arm64/VendorKeychainIdentifiersStorage.o",
+    "swift-dependencies" : "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/Build/Intermediates.noindex/AppMetrica.build/Debug-iphonesimulator/AppMetricaIdentifiers.build/Objects-normal/arm64/VendorKeychainIdentifiersStorage.swiftdeps",
+    "swiftmodule" : "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/Build/Intermediates.noindex/AppMetrica.build/Debug-iphonesimulator/AppMetricaIdentifiers.build/Objects-normal/arm64/VendorKeychainIdentifiersStorage~partial.swiftmodule"
+  },
+  "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/SourcePackages/checkouts/appmetrica-sdk-ios/AppMetricaIdentifiers/Sources/InternalManager/IdentifierLoader.swift" : {
+    "const-values" : "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/Build/Intermediates.noindex/AppMetrica.build/Debug-iphonesimulator/AppMetricaIdentifiers.build/Objects-normal/arm64/IdentifierLoader.swiftconstvalues",
+    "dependencies" : "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/Build/Intermediates.noindex/AppMetrica.build/Debug-iphonesimulator/AppMetricaIdentifiers.build/Objects-normal/arm64/IdentifierLoader.d",
+    "diagnostics" : "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/Build/Intermediates.noindex/AppMetrica.build/Debug-iphonesimulator/AppMetricaIdentifiers.build/Objects-normal/arm64/IdentifierLoader.dia",
+    "index-unit-output-path" : "/AppMetrica.build/Debug-iphonesimulator/AppMetricaIdentifiers.build/Objects-normal/arm64/IdentifierLoader.o",
+    "llvm-bc" : "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/Build/Intermediates.noindex/AppMetrica.build/Debug-iphonesimulator/AppMetricaIdentifiers.build/Objects-normal/arm64/IdentifierLoader.bc",
+    "object" : "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/Build/Intermediates.noindex/AppMetrica.build/Debug-iphonesimulator/AppMetricaIdentifiers.build/Objects-normal/arm64/IdentifierLoader.o",
+    "swift-dependencies" : "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/Build/Intermediates.noindex/AppMetrica.build/Debug-iphonesimulator/AppMetricaIdentifiers.build/Objects-normal/arm64/IdentifierLoader.swiftdeps",
+    "swiftmodule" : "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/Build/Intermediates.noindex/AppMetrica.build/Debug-iphonesimulator/AppMetricaIdentifiers.build/Objects-normal/arm64/IdentifierLoader~partial.swiftmodule"
+  },
+  "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/SourcePackages/checkouts/appmetrica-sdk-ios/AppMetricaIdentifiers/Sources/InternalManager/IdentifierResolver.swift" : {
+    "const-values" : "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/Build/Intermediates.noindex/AppMetrica.build/Debug-iphonesimulator/AppMetricaIdentifiers.build/Objects-normal/arm64/IdentifierResolver.swiftconstvalues",
+    "dependencies" : "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/Build/Intermediates.noindex/AppMetrica.build/Debug-iphonesimulator/AppMetricaIdentifiers.build/Objects-normal/arm64/IdentifierResolver.d",
+    "diagnostics" : "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/Build/Intermediates.noindex/AppMetrica.build/Debug-iphonesimulator/AppMetricaIdentifiers.build/Objects-normal/arm64/IdentifierResolver.dia",
+    "index-unit-output-path" : "/AppMetrica.build/Debug-iphonesimulator/AppMetricaIdentifiers.build/Objects-normal/arm64/IdentifierResolver.o",
+    "llvm-bc" : "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/Build/Intermediates.noindex/AppMetrica.build/Debug-iphonesimulator/AppMetricaIdentifiers.build/Objects-normal/arm64/IdentifierResolver.bc",
+    "object" : "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/Build/Intermediates.noindex/AppMetrica.build/Debug-iphonesimulator/AppMetricaIdentifiers.build/Objects-normal/arm64/IdentifierResolver.o",
+    "swift-dependencies" : "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/Build/Intermediates.noindex/AppMetrica.build/Debug-iphonesimulator/AppMetricaIdentifiers.build/Objects-normal/arm64/IdentifierResolver.swiftdeps",
+    "swiftmodule" : "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/Build/Intermediates.noindex/AppMetrica.build/Debug-iphonesimulator/AppMetricaIdentifiers.build/Objects-normal/arm64/IdentifierResolver~partial.swiftmodule"
+  },
+  "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/SourcePackages/checkouts/appmetrica-sdk-ios/AppMetricaIdentifiers/Sources/InternalManager/IdentifierUpdater.swift" : {
+    "const-values" : "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/Build/Intermediates.noindex/AppMetrica.build/Debug-iphonesimulator/AppMetricaIdentifiers.build/Objects-normal/arm64/IdentifierUpdater.swiftconstvalues",
+    "dependencies" : "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/Build/Intermediates.noindex/AppMetrica.build/Debug-iphonesimulator/AppMetricaIdentifiers.build/Objects-normal/arm64/IdentifierUpdater.d",
+    "diagnostics" : "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/Build/Intermediates.noindex/AppMetrica.build/Debug-iphonesimulator/AppMetricaIdentifiers.build/Objects-normal/arm64/IdentifierUpdater.dia",
+    "index-unit-output-path" : "/AppMetrica.build/Debug-iphonesimulator/AppMetricaIdentifiers.build/Objects-normal/arm64/IdentifierUpdater.o",
+    "llvm-bc" : "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/Build/Intermediates.noindex/AppMetrica.build/Debug-iphonesimulator/AppMetricaIdentifiers.build/Objects-normal/arm64/IdentifierUpdater.bc",
+    "object" : "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/Build/Intermediates.noindex/AppMetrica.build/Debug-iphonesimulator/AppMetricaIdentifiers.build/Objects-normal/arm64/IdentifierUpdater.o",
+    "swift-dependencies" : "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/Build/Intermediates.noindex/AppMetrica.build/Debug-iphonesimulator/AppMetricaIdentifiers.build/Objects-normal/arm64/IdentifierUpdater.swiftdeps",
+    "swiftmodule" : "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/Build/Intermediates.noindex/AppMetrica.build/Debug-iphonesimulator/AppMetricaIdentifiers.build/Objects-normal/arm64/IdentifierUpdater~partial.swiftmodule"
+  },
+  "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/SourcePackages/checkouts/appmetrica-sdk-ios/AppMetricaIdentifiers/Sources/InternalManager/SyncManager.swift" : {
+    "const-values" : "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/Build/Intermediates.noindex/AppMetrica.build/Debug-iphonesimulator/AppMetricaIdentifiers.build/Objects-normal/arm64/SyncManager.swiftconstvalues",
+    "dependencies" : "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/Build/Intermediates.noindex/AppMetrica.build/Debug-iphonesimulator/AppMetricaIdentifiers.build/Objects-normal/arm64/SyncManager.d",
+    "diagnostics" : "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/Build/Intermediates.noindex/AppMetrica.build/Debug-iphonesimulator/AppMetricaIdentifiers.build/Objects-normal/arm64/SyncManager.dia",
+    "index-unit-output-path" : "/AppMetrica.build/Debug-iphonesimulator/AppMetricaIdentifiers.build/Objects-normal/arm64/SyncManager.o",
+    "llvm-bc" : "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/Build/Intermediates.noindex/AppMetrica.build/Debug-iphonesimulator/AppMetricaIdentifiers.build/Objects-normal/arm64/SyncManager.bc",
+    "object" : "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/Build/Intermediates.noindex/AppMetrica.build/Debug-iphonesimulator/AppMetricaIdentifiers.build/Objects-normal/arm64/SyncManager.o",
+    "swift-dependencies" : "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/Build/Intermediates.noindex/AppMetrica.build/Debug-iphonesimulator/AppMetricaIdentifiers.build/Objects-normal/arm64/SyncManager.swiftdeps",
+    "swiftmodule" : "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/Build/Intermediates.noindex/AppMetrica.build/Debug-iphonesimulator/AppMetricaIdentifiers.build/Objects-normal/arm64/SyncManager~partial.swiftmodule"
+  },
+  "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/SourcePackages/checkouts/appmetrica-sdk-ios/AppMetricaIdentifiers/Sources/InternalStruct/IdentifierSet.swift" : {
+    "const-values" : "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/Build/Intermediates.noindex/AppMetrica.build/Debug-iphonesimulator/AppMetricaIdentifiers.build/Objects-normal/arm64/IdentifierSet.swiftconstvalues",
+    "dependencies" : "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/Build/Intermediates.noindex/AppMetrica.build/Debug-iphonesimulator/AppMetricaIdentifiers.build/Objects-normal/arm64/IdentifierSet.d",
+    "diagnostics" : "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/Build/Intermediates.noindex/AppMetrica.build/Debug-iphonesimulator/AppMetricaIdentifiers.build/Objects-normal/arm64/IdentifierSet.dia",
+    "index-unit-output-path" : "/AppMetrica.build/Debug-iphonesimulator/AppMetricaIdentifiers.build/Objects-normal/arm64/IdentifierSet.o",
+    "llvm-bc" : "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/Build/Intermediates.noindex/AppMetrica.build/Debug-iphonesimulator/AppMetricaIdentifiers.build/Objects-normal/arm64/IdentifierSet.bc",
+    "object" : "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/Build/Intermediates.noindex/AppMetrica.build/Debug-iphonesimulator/AppMetricaIdentifiers.build/Objects-normal/arm64/IdentifierSet.o",
+    "swift-dependencies" : "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/Build/Intermediates.noindex/AppMetrica.build/Debug-iphonesimulator/AppMetricaIdentifiers.build/Objects-normal/arm64/IdentifierSet.swiftdeps",
+    "swiftmodule" : "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/Build/Intermediates.noindex/AppMetrica.build/Debug-iphonesimulator/AppMetricaIdentifiers.build/Objects-normal/arm64/IdentifierSet~partial.swiftmodule"
+  },
+  "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/SourcePackages/checkouts/appmetrica-sdk-ios/AppMetricaIdentifiers/Sources/InternalStruct/IdentifierSource.swift" : {
+    "const-values" : "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/Build/Intermediates.noindex/AppMetrica.build/Debug-iphonesimulator/AppMetricaIdentifiers.build/Objects-normal/arm64/IdentifierSource.swiftconstvalues",
+    "dependencies" : "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/Build/Intermediates.noindex/AppMetrica.build/Debug-iphonesimulator/AppMetricaIdentifiers.build/Objects-normal/arm64/IdentifierSource.d",
+    "diagnostics" : "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/Build/Intermediates.noindex/AppMetrica.build/Debug-iphonesimulator/AppMetricaIdentifiers.build/Objects-normal/arm64/IdentifierSource.dia",
+    "index-unit-output-path" : "/AppMetrica.build/Debug-iphonesimulator/AppMetricaIdentifiers.build/Objects-normal/arm64/IdentifierSource.o",
+    "llvm-bc" : "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/Build/Intermediates.noindex/AppMetrica.build/Debug-iphonesimulator/AppMetricaIdentifiers.build/Objects-normal/arm64/IdentifierSource.bc",
+    "object" : "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/Build/Intermediates.noindex/AppMetrica.build/Debug-iphonesimulator/AppMetricaIdentifiers.build/Objects-normal/arm64/IdentifierSource.o",
+    "swift-dependencies" : "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/Build/Intermediates.noindex/AppMetrica.build/Debug-iphonesimulator/AppMetricaIdentifiers.build/Objects-normal/arm64/IdentifierSource.swiftdeps",
+    "swiftmodule" : "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/Build/Intermediates.noindex/AppMetrica.build/Debug-iphonesimulator/AppMetricaIdentifiers.build/Objects-normal/arm64/IdentifierSource~partial.swiftmodule"
+  },
+  "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/SourcePackages/checkouts/appmetrica-sdk-ios/AppMetricaIdentifiers/Sources/InternalStruct/IdentifierType.swift" : {
+    "const-values" : "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/Build/Intermediates.noindex/AppMetrica.build/Debug-iphonesimulator/AppMetricaIdentifiers.build/Objects-normal/arm64/IdentifierType.swiftconstvalues",
+    "dependencies" : "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/Build/Intermediates.noindex/AppMetrica.build/Debug-iphonesimulator/AppMetricaIdentifiers.build/Objects-normal/arm64/IdentifierType.d",
+    "diagnostics" : "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/Build/Intermediates.noindex/AppMetrica.build/Debug-iphonesimulator/AppMetricaIdentifiers.build/Objects-normal/arm64/IdentifierType.dia",
+    "index-unit-output-path" : "/AppMetrica.build/Debug-iphonesimulator/AppMetricaIdentifiers.build/Objects-normal/arm64/IdentifierType.o",
+    "llvm-bc" : "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/Build/Intermediates.noindex/AppMetrica.build/Debug-iphonesimulator/AppMetricaIdentifiers.build/Objects-normal/arm64/IdentifierType.bc",
+    "object" : "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/Build/Intermediates.noindex/AppMetrica.build/Debug-iphonesimulator/AppMetricaIdentifiers.build/Objects-normal/arm64/IdentifierType.o",
+    "swift-dependencies" : "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/Build/Intermediates.noindex/AppMetrica.build/Debug-iphonesimulator/AppMetricaIdentifiers.build/Objects-normal/arm64/IdentifierType.swiftdeps",
+    "swiftmodule" : "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/Build/Intermediates.noindex/AppMetrica.build/Debug-iphonesimulator/AppMetricaIdentifiers.build/Objects-normal/arm64/IdentifierType~partial.swiftmodule"
+  },
+  "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/SourcePackages/checkouts/appmetrica-sdk-ios/AppMetricaIdentifiers/Sources/InternalStruct/KeychainValueState.swift" : {
+    "const-values" : "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/Build/Intermediates.noindex/AppMetrica.build/Debug-iphonesimulator/AppMetricaIdentifiers.build/Objects-normal/arm64/KeychainValueState.swiftconstvalues",
+    "dependencies" : "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/Build/Intermediates.noindex/AppMetrica.build/Debug-iphonesimulator/AppMetricaIdentifiers.build/Objects-normal/arm64/KeychainValueState.d",
+    "diagnostics" : "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/Build/Intermediates.noindex/AppMetrica.build/Debug-iphonesimulator/AppMetricaIdentifiers.build/Objects-normal/arm64/KeychainValueState.dia",
+    "index-unit-output-path" : "/AppMetrica.build/Debug-iphonesimulator/AppMetricaIdentifiers.build/Objects-normal/arm64/KeychainValueState.o",
+    "llvm-bc" : "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/Build/Intermediates.noindex/AppMetrica.build/Debug-iphonesimulator/AppMetricaIdentifiers.build/Objects-normal/arm64/KeychainValueState.bc",
+    "object" : "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/Build/Intermediates.noindex/AppMetrica.build/Debug-iphonesimulator/AppMetricaIdentifiers.build/Objects-normal/arm64/KeychainValueState.o",
+    "swift-dependencies" : "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/Build/Intermediates.noindex/AppMetrica.build/Debug-iphonesimulator/AppMetricaIdentifiers.build/Objects-normal/arm64/KeychainValueState.swiftdeps",
+    "swiftmodule" : "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/Build/Intermediates.noindex/AppMetrica.build/Debug-iphonesimulator/AppMetricaIdentifiers.build/Objects-normal/arm64/KeychainValueState~partial.swiftmodule"
+  },
+  "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/SourcePackages/checkouts/appmetrica-sdk-ios/AppMetricaIdentifiers/Sources/Public/AppMetricaIdentifiersKeys.swift" : {
+    "const-values" : "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/Build/Intermediates.noindex/AppMetrica.build/Debug-iphonesimulator/AppMetricaIdentifiers.build/Objects-normal/arm64/AppMetricaIdentifiersKeys.swiftconstvalues",
+    "dependencies" : "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/Build/Intermediates.noindex/AppMetrica.build/Debug-iphonesimulator/AppMetricaIdentifiers.build/Objects-normal/arm64/AppMetricaIdentifiersKeys.d",
+    "diagnostics" : "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/Build/Intermediates.noindex/AppMetrica.build/Debug-iphonesimulator/AppMetricaIdentifiers.build/Objects-normal/arm64/AppMetricaIdentifiersKeys.dia",
+    "index-unit-output-path" : "/AppMetrica.build/Debug-iphonesimulator/AppMetricaIdentifiers.build/Objects-normal/arm64/AppMetricaIdentifiersKeys.o",
+    "llvm-bc" : "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/Build/Intermediates.noindex/AppMetrica.build/Debug-iphonesimulator/AppMetricaIdentifiers.build/Objects-normal/arm64/AppMetricaIdentifiersKeys.bc",
+    "object" : "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/Build/Intermediates.noindex/AppMetrica.build/Debug-iphonesimulator/AppMetricaIdentifiers.build/Objects-normal/arm64/AppMetricaIdentifiersKeys.o",
+    "swift-dependencies" : "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/Build/Intermediates.noindex/AppMetrica.build/Debug-iphonesimulator/AppMetricaIdentifiers.build/Objects-normal/arm64/AppMetricaIdentifiersKeys.swiftdeps",
+    "swiftmodule" : "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/Build/Intermediates.noindex/AppMetrica.build/Debug-iphonesimulator/AppMetricaIdentifiers.build/Objects-normal/arm64/AppMetricaIdentifiersKeys~partial.swiftmodule"
+  },
+  "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/SourcePackages/checkouts/appmetrica-sdk-ios/AppMetricaIdentifiers/Sources/Public/IdentifierProvider.swift" : {
+    "const-values" : "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/Build/Intermediates.noindex/AppMetrica.build/Debug-iphonesimulator/AppMetricaIdentifiers.build/Objects-normal/arm64/IdentifierProvider.swiftconstvalues",
+    "dependencies" : "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/Build/Intermediates.noindex/AppMetrica.build/Debug-iphonesimulator/AppMetricaIdentifiers.build/Objects-normal/arm64/IdentifierProvider.d",
+    "diagnostics" : "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/Build/Intermediates.noindex/AppMetrica.build/Debug-iphonesimulator/AppMetricaIdentifiers.build/Objects-normal/arm64/IdentifierProvider.dia",
+    "index-unit-output-path" : "/AppMetrica.build/Debug-iphonesimulator/AppMetricaIdentifiers.build/Objects-normal/arm64/IdentifierProvider.o",
+    "llvm-bc" : "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/Build/Intermediates.noindex/AppMetrica.build/Debug-iphonesimulator/AppMetricaIdentifiers.build/Objects-normal/arm64/IdentifierProvider.bc",
+    "object" : "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/Build/Intermediates.noindex/AppMetrica.build/Debug-iphonesimulator/AppMetricaIdentifiers.build/Objects-normal/arm64/IdentifierProvider.o",
+    "swift-dependencies" : "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/Build/Intermediates.noindex/AppMetrica.build/Debug-iphonesimulator/AppMetricaIdentifiers.build/Objects-normal/arm64/IdentifierProvider.swiftdeps",
+    "swiftmodule" : "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/Build/Intermediates.noindex/AppMetrica.build/Debug-iphonesimulator/AppMetricaIdentifiers.build/Objects-normal/arm64/IdentifierProvider~partial.swiftmodule"
+  },
+  "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/SourcePackages/checkouts/appmetrica-sdk-ios/AppMetricaIdentifiers/Sources/Public/Identifiers.swift" : {
+    "const-values" : "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/Build/Intermediates.noindex/AppMetrica.build/Debug-iphonesimulator/AppMetricaIdentifiers.build/Objects-normal/arm64/Identifiers.swiftconstvalues",
+    "dependencies" : "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/Build/Intermediates.noindex/AppMetrica.build/Debug-iphonesimulator/AppMetricaIdentifiers.build/Objects-normal/arm64/Identifiers.d",
+    "diagnostics" : "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/Build/Intermediates.noindex/AppMetrica.build/Debug-iphonesimulator/AppMetricaIdentifiers.build/Objects-normal/arm64/Identifiers.dia",
+    "index-unit-output-path" : "/AppMetrica.build/Debug-iphonesimulator/AppMetricaIdentifiers.build/Objects-normal/arm64/Identifiers.o",
+    "llvm-bc" : "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/Build/Intermediates.noindex/AppMetrica.build/Debug-iphonesimulator/AppMetricaIdentifiers.build/Objects-normal/arm64/Identifiers.bc",
+    "object" : "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/Build/Intermediates.noindex/AppMetrica.build/Debug-iphonesimulator/AppMetricaIdentifiers.build/Objects-normal/arm64/Identifiers.o",
+    "swift-dependencies" : "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/Build/Intermediates.noindex/AppMetrica.build/Debug-iphonesimulator/AppMetricaIdentifiers.build/Objects-normal/arm64/Identifiers.swiftdeps",
+    "swiftmodule" : "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/Build/Intermediates.noindex/AppMetrica.build/Debug-iphonesimulator/AppMetricaIdentifiers.build/Objects-normal/arm64/Identifiers~partial.swiftmodule"
+  },
+  "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/SourcePackages/checkouts/appmetrica-sdk-ios/AppMetricaIdentifiers/Sources/Public/IdentifiersData.swift" : {
+    "const-values" : "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/Build/Intermediates.noindex/AppMetrica.build/Debug-iphonesimulator/AppMetricaIdentifiers.build/Objects-normal/arm64/IdentifiersData.swiftconstvalues",
+    "dependencies" : "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/Build/Intermediates.noindex/AppMetrica.build/Debug-iphonesimulator/AppMetricaIdentifiers.build/Objects-normal/arm64/IdentifiersData.d",
+    "diagnostics" : "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/Build/Intermediates.noindex/AppMetrica.build/Debug-iphonesimulator/AppMetricaIdentifiers.build/Objects-normal/arm64/IdentifiersData.dia",
+    "index-unit-output-path" : "/AppMetrica.build/Debug-iphonesimulator/AppMetricaIdentifiers.build/Objects-normal/arm64/IdentifiersData.o",
+    "llvm-bc" : "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/Build/Intermediates.noindex/AppMetrica.build/Debug-iphonesimulator/AppMetricaIdentifiers.build/Objects-normal/arm64/IdentifiersData.bc",
+    "object" : "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/Build/Intermediates.noindex/AppMetrica.build/Debug-iphonesimulator/AppMetricaIdentifiers.build/Objects-normal/arm64/IdentifiersData.o",
+    "swift-dependencies" : "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/Build/Intermediates.noindex/AppMetrica.build/Debug-iphonesimulator/AppMetricaIdentifiers.build/Objects-normal/arm64/IdentifiersData.swiftdeps",
+    "swiftmodule" : "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/Build/Intermediates.noindex/AppMetrica.build/Debug-iphonesimulator/AppMetricaIdentifiers.build/Objects-normal/arm64/IdentifiersData~partial.swiftmodule"
+  },
+  "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/SourcePackages/checkouts/appmetrica-sdk-ios/AppMetricaIdentifiers/Sources/RunEnvironment+Priorities.swift" : {
+    "const-values" : "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/Build/Intermediates.noindex/AppMetrica.build/Debug-iphonesimulator/AppMetricaIdentifiers.build/Objects-normal/arm64/RunEnvironment+Priorities.swiftconstvalues",
+    "dependencies" : "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/Build/Intermediates.noindex/AppMetrica.build/Debug-iphonesimulator/AppMetricaIdentifiers.build/Objects-normal/arm64/RunEnvironment+Priorities.d",
+    "diagnostics" : "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/Build/Intermediates.noindex/AppMetrica.build/Debug-iphonesimulator/AppMetricaIdentifiers.build/Objects-normal/arm64/RunEnvironment+Priorities.dia",
+    "index-unit-output-path" : "/AppMetrica.build/Debug-iphonesimulator/AppMetricaIdentifiers.build/Objects-normal/arm64/RunEnvironment+Priorities.o",
+    "llvm-bc" : "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/Build/Intermediates.noindex/AppMetrica.build/Debug-iphonesimulator/AppMetricaIdentifiers.build/Objects-normal/arm64/RunEnvironment+Priorities.bc",
+    "object" : "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/Build/Intermediates.noindex/AppMetrica.build/Debug-iphonesimulator/AppMetricaIdentifiers.build/Objects-normal/arm64/RunEnvironment+Priorities.o",
+    "swift-dependencies" : "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/Build/Intermediates.noindex/AppMetrica.build/Debug-iphonesimulator/AppMetricaIdentifiers.build/Objects-normal/arm64/RunEnvironment+Priorities.swiftdeps",
+    "swiftmodule" : "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/Build/Intermediates.noindex/AppMetrica.build/Debug-iphonesimulator/AppMetricaIdentifiers.build/Objects-normal/arm64/RunEnvironment+Priorities~partial.swiftmodule"
+  },
+  "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/SourcePackages/checkouts/appmetrica-sdk-ios/AppMetricaIdentifiers/Sources/Utils/FileStorageJSONProvider.swift" : {
+    "const-values" : "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/Build/Intermediates.noindex/AppMetrica.build/Debug-iphonesimulator/AppMetricaIdentifiers.build/Objects-normal/arm64/FileStorageJSONProvider.swiftconstvalues",
+    "dependencies" : "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/Build/Intermediates.noindex/AppMetrica.build/Debug-iphonesimulator/AppMetricaIdentifiers.build/Objects-normal/arm64/FileStorageJSONProvider.d",
+    "diagnostics" : "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/Build/Intermediates.noindex/AppMetrica.build/Debug-iphonesimulator/AppMetricaIdentifiers.build/Objects-normal/arm64/FileStorageJSONProvider.dia",
+    "index-unit-output-path" : "/AppMetrica.build/Debug-iphonesimulator/AppMetricaIdentifiers.build/Objects-normal/arm64/FileStorageJSONProvider.o",
+    "llvm-bc" : "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/Build/Intermediates.noindex/AppMetrica.build/Debug-iphonesimulator/AppMetricaIdentifiers.build/Objects-normal/arm64/FileStorageJSONProvider.bc",
+    "object" : "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/Build/Intermediates.noindex/AppMetrica.build/Debug-iphonesimulator/AppMetricaIdentifiers.build/Objects-normal/arm64/FileStorageJSONProvider.o",
+    "swift-dependencies" : "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/Build/Intermediates.noindex/AppMetrica.build/Debug-iphonesimulator/AppMetricaIdentifiers.build/Objects-normal/arm64/FileStorageJSONProvider.swiftdeps",
+    "swiftmodule" : "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/Build/Intermediates.noindex/AppMetrica.build/Debug-iphonesimulator/AppMetricaIdentifiers.build/Objects-normal/arm64/FileStorageJSONProvider~partial.swiftmodule"
+  },
+  "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/SourcePackages/checkouts/appmetrica-sdk-ios/AppMetricaIdentifiers/Sources/Utils/Result+Extension.swift" : {
+    "const-values" : "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/Build/Intermediates.noindex/AppMetrica.build/Debug-iphonesimulator/AppMetricaIdentifiers.build/Objects-normal/arm64/Result+Extension.swiftconstvalues",
+    "dependencies" : "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/Build/Intermediates.noindex/AppMetrica.build/Debug-iphonesimulator/AppMetricaIdentifiers.build/Objects-normal/arm64/Result+Extension.d",
+    "diagnostics" : "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/Build/Intermediates.noindex/AppMetrica.build/Debug-iphonesimulator/AppMetricaIdentifiers.build/Objects-normal/arm64/Result+Extension.dia",
+    "index-unit-output-path" : "/AppMetrica.build/Debug-iphonesimulator/AppMetricaIdentifiers.build/Objects-normal/arm64/Result+Extension.o",
+    "llvm-bc" : "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/Build/Intermediates.noindex/AppMetrica.build/Debug-iphonesimulator/AppMetricaIdentifiers.build/Objects-normal/arm64/Result+Extension.bc",
+    "object" : "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/Build/Intermediates.noindex/AppMetrica.build/Debug-iphonesimulator/AppMetricaIdentifiers.build/Objects-normal/arm64/Result+Extension.o",
+    "swift-dependencies" : "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/Build/Intermediates.noindex/AppMetrica.build/Debug-iphonesimulator/AppMetricaIdentifiers.build/Objects-normal/arm64/Result+Extension.swiftdeps",
+    "swiftmodule" : "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/Build/Intermediates.noindex/AppMetrica.build/Debug-iphonesimulator/AppMetricaIdentifiers.build/Objects-normal/arm64/Result+Extension~partial.swiftmodule"
+  }
+}

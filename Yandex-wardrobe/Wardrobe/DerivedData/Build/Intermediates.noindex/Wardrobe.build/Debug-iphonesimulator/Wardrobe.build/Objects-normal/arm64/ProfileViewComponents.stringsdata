@@ -1,0 +1,16 @@
+{
+  "source": "/Users/egorsheludnev/team-34/ios/Wardrobe/Wardrobe/ProfileScreen/View/ProfileViewComponents.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Купленные товары",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 192
+        }
+      }
+    ]
+  },
+  "version": 1
+}

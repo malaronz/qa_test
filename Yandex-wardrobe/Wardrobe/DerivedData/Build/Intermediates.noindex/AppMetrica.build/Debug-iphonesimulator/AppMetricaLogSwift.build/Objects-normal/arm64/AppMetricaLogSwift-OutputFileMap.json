@@ -1,0 +1,28 @@
+{
+  "" : {
+    "diagnostics" : "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/Build/Intermediates.noindex/AppMetrica.build/Debug-iphonesimulator/AppMetricaLogSwift.build/Objects-normal/arm64/AppMetricaLogSwift-master.dia",
+    "emit-module-dependencies" : "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/Build/Intermediates.noindex/AppMetrica.build/Debug-iphonesimulator/AppMetricaLogSwift.build/Objects-normal/arm64/AppMetricaLogSwift-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/Build/Intermediates.noindex/AppMetrica.build/Debug-iphonesimulator/AppMetricaLogSwift.build/Objects-normal/arm64/AppMetricaLogSwift-master-emit-module.dia",
+    "swift-dependencies" : "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/Build/Intermediates.noindex/AppMetrica.build/Debug-iphonesimulator/AppMetricaLogSwift.build/Objects-normal/arm64/AppMetricaLogSwift-master.swiftdeps"
+  },
+  "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/Build/Intermediates.noindex/AppMetrica.build/Debug-iphonesimulator/AppMetricaLogSwift.build/DerivedSources/resource_bundle_accessor.swift" : {
+    "const-values" : "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/Build/Intermediates.noindex/AppMetrica.build/Debug-iphonesimulator/AppMetricaLogSwift.build/Objects-normal/arm64/resource_bundle_accessor.swiftconstvalues",
+    "dependencies" : "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/Build/Intermediates.noindex/AppMetrica.build/Debug-iphonesimulator/AppMetricaLogSwift.build/Objects-normal/arm64/resource_bundle_accessor.d",
+    "diagnostics" : "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/Build/Intermediates.noindex/AppMetrica.build/Debug-iphonesimulator/AppMetricaLogSwift.build/Objects-normal/arm64/resource_bundle_accessor.dia",
+    "index-unit-output-path" : "/AppMetrica.build/Debug-iphonesimulator/AppMetricaLogSwift.build/Objects-normal/arm64/resource_bundle_accessor.o",
+    "llvm-bc" : "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/Build/Intermediates.noindex/AppMetrica.build/Debug-iphonesimulator/AppMetricaLogSwift.build/Objects-normal/arm64/resource_bundle_accessor.bc",
+    "object" : "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/Build/Intermediates.noindex/AppMetrica.build/Debug-iphonesimulator/AppMetricaLogSwift.build/Objects-normal/arm64/resource_bundle_accessor.o",
+    "swift-dependencies" : "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/Build/Intermediates.noindex/AppMetrica.build/Debug-iphonesimulator/AppMetricaLogSwift.build/Objects-normal/arm64/resource_bundle_accessor.swiftdeps",
+    "swiftmodule" : "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/Build/Intermediates.noindex/AppMetrica.build/Debug-iphonesimulator/AppMetricaLogSwift.build/Objects-normal/arm64/resource_bundle_accessor~partial.swiftmodule"
+  },
+  "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/SourcePackages/checkouts/appmetrica-sdk-ios/AppMetricaLogSwift/Sources/Log.swift" : {
+    "const-values" : "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/Build/Intermediates.noindex/AppMetrica.build/Debug-iphonesimulator/AppMetricaLogSwift.build/Objects-normal/arm64/Log.swiftconstvalues",
+    "dependencies" : "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/Build/Intermediates.noindex/AppMetrica.build/Debug-iphonesimulator/AppMetricaLogSwift.build/Objects-normal/arm64/Log.d",
+    "diagnostics" : "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/Build/Intermediates.noindex/AppMetrica.build/Debug-iphonesimulator/AppMetricaLogSwift.build/Objects-normal/arm64/Log.dia",
+    "index-unit-output-path" : "/AppMetrica.build/Debug-iphonesimulator/AppMetricaLogSwift.build/Objects-normal/arm64/Log.o",
+    "llvm-bc" : "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/Build/Intermediates.noindex/AppMetrica.build/Debug-iphonesimulator/AppMetricaLogSwift.build/Objects-normal/arm64/Log.bc",
+    "object" : "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/Build/Intermediates.noindex/AppMetrica.build/Debug-iphonesimulator/AppMetricaLogSwift.build/Objects-normal/arm64/Log.o",
+    "swift-dependencies" : "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/Build/Intermediates.noindex/AppMetrica.build/Debug-iphonesimulator/AppMetricaLogSwift.build/Objects-normal/arm64/Log.swiftdeps",
+    "swiftmodule" : "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/Build/Intermediates.noindex/AppMetrica.build/Debug-iphonesimulator/AppMetricaLogSwift.build/Objects-normal/arm64/Log~partial.swiftmodule"
+  }
+}

@@ -1,0 +1,21 @@
+dependencies: \
+  /Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/SourcePackages/checkouts/appmetrica-sdk-ios/AppMetricaNetwork/Sources/AMAGenericRequest.m \
+  /Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/Build/Intermediates.noindex/AppMetrica.build/Debug-iphonesimulator/AppMetricaNetwork.build/DerivedSources/resource_bundle_accessor.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator.sdk/System/Library/Frameworks/Foundation.framework/Modules/module.modulemap \
+  /Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/SourcePackages/checkouts/appmetrica-sdk-ios/AppMetricaNetwork/Sources/AMANetworkCore.h \
+  /Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/Build/Intermediates.noindex/GeneratedModuleMaps-iphonesimulator/AppMetricaLog.modulemap \
+  /Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/Build/Intermediates.noindex/GeneratedModuleMaps-iphonesimulator/AppMetricaCoreUtils.modulemap \
+  /Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/SourcePackages/checkouts/appmetrica-sdk-ios/AppMetricaNetwork/Sources/include/AppMetricaNetwork/AppMetricaNetwork.h \
+  /Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/SourcePackages/checkouts/appmetrica-sdk-ios/AppMetricaNetwork/Sources/include/AppMetricaNetwork/AMAGenericRequest.h \
+  /Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/SourcePackages/checkouts/appmetrica-sdk-ios/AppMetricaNetwork/Sources/include/AppMetricaNetwork/AMARequest.h \
+  /Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/SourcePackages/checkouts/appmetrica-sdk-ios/AppMetricaNetwork/Sources/include/AppMetricaNetwork/AMAHTTPRequestor.h \
+  /Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/SourcePackages/checkouts/appmetrica-sdk-ios/AppMetricaNetwork/Sources/include/AppMetricaNetwork/AMAHTTPRequestsFactory.h \
+  /Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/SourcePackages/checkouts/appmetrica-sdk-ios/AppMetricaNetwork/Sources/include/AppMetricaNetwork/AMAHTTPSessionProvider.h \
+  /Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/SourcePackages/checkouts/appmetrica-sdk-ios/AppMetricaNetwork/Sources/include/AppMetricaNetwork/AMANetworkSessionProviding.h \
+  /Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/SourcePackages/checkouts/appmetrica-sdk-ios/AppMetricaNetwork/Sources/include/AppMetricaNetwork/AMAHostExchangeRequestProcessor.h \
+  /Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/SourcePackages/checkouts/appmetrica-sdk-ios/AppMetricaNetwork/Sources/include/AppMetricaNetwork/AMAHostExchangeResponseValidating.h \
+  /Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/SourcePackages/checkouts/appmetrica-sdk-ios/AppMetricaNetwork/Sources/include/AppMetricaNetwork/AMANetworkStrategyController.h \
+  /Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/SourcePackages/checkouts/appmetrica-sdk-ios/AppMetricaNetwork/Sources/include/AppMetricaNetwork/AMANetworkingUtilities.h \
+  /Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/SourcePackages/checkouts/appmetrica-sdk-ios/AppMetricaNetwork/Sources/include/AppMetricaNetwork/AMAReportResponse.h \
+  /Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/SourcePackages/checkouts/appmetrica-sdk-ios/AppMetricaNetwork/Sources/include/AppMetricaNetwork/AMAReportResponseParser.h \
+  /Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/SourcePackages/checkouts/appmetrica-sdk-ios/AppMetricaNetwork/Sources/include/AppMetricaNetwork/AMARequestParameters.h

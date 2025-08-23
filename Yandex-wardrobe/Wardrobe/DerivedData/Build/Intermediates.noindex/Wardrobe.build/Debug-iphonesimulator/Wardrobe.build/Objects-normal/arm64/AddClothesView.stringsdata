@@ -1,0 +1,16 @@
+{
+  "source": "/Users/egorsheludnev/team-34/ios/Wardrobe/Wardrobe/LookScreen/Components/AddClothesView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Добавить одежду",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 24
+        }
+      }
+    ]
+  },
+  "version": 1
+}

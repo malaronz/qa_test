@@ -1,0 +1,72 @@
+{
+  "source": "/Users/egorsheludnev/team-34/ios/Wardrobe/Wardrobe/FilterSettings/FilterSettings.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Настроить образ",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 42
+        }
+      },
+      {
+        "comment": "",
+        "key": "Пол",
+        "location": {
+          "startingColumn": 14,
+          "startingLine": 56
+        }
+      },
+      {
+        "comment": "",
+        "key": "Все",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 211
+        }
+      },
+      {
+        "comment": "",
+        "key": "Все",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 199
+        }
+      },
+      {
+        "comment": "",
+        "key": "Рост",
+        "location": {
+          "startingColumn": 14,
+          "startingLine": 256
+        }
+      },
+      {
+        "comment": "",
+        "key": "Все",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 301
+        }
+      },
+      {
+        "comment": "",
+        "key": "Сезон",
+        "location": {
+          "startingColumn": 14,
+          "startingLine": 324
+        }
+      },
+      {
+        "comment": "",
+        "key": "Продолжить",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 371
+        }
+      }
+    ]
+  },
+  "version": 1
+}

@@ -1,0 +1,72 @@
+{
+  "source": "/Users/egorsheludnev/team-34/ios/Wardrobe/Wardrobe/LookScreen/View/LookView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Мой гардероб",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 37
+        }
+      },
+      {
+        "comment": "",
+        "key": "Добавить в корзину",
+        "location": {
+          "startingColumn": 40,
+          "startingLine": 86
+        }
+      },
+      {
+        "comment": "",
+        "key": "Примерить",
+        "location": {
+          "startingColumn": 42,
+          "startingLine": 90
+        }
+      },
+      {
+        "comment": "",
+        "key": "Название",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 192
+        }
+      },
+      {
+        "comment": "",
+        "key": "Введите название",
+        "location": {
+          "startingColumn": 27,
+          "startingLine": 196
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld/%lld",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 210
+        }
+      },
+      {
+        "comment": "",
+        "key": "Отменить",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 219
+        }
+      },
+      {
+        "comment": "",
+        "key": "Сохранить",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 225
+        }
+      }
+    ]
+  },
+  "version": 1
+}

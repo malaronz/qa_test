@@ -1,0 +1,64 @@
+{
+  "source": "/Users/egorsheludnev/team-34/ios/Wardrobe/Wardrobe/Views/Components/ItemCard.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "%lld ₽",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 131
+        }
+      },
+      {
+        "comment": "",
+        "key": "КУПЛЕН",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 63
+        }
+      },
+      {
+        "comment": "",
+        "key": "Собрать образ",
+        "location": {
+          "startingColumn": 38,
+          "startingLine": 96
+        }
+      },
+      {
+        "comment": "",
+        "key": "Удалить из корзины",
+        "location": {
+          "startingColumn": 49,
+          "startingLine": 99
+        }
+      },
+      {
+        "comment": "",
+        "key": "Добавить в корзину",
+        "location": {
+          "startingColumn": 88,
+          "startingLine": 99
+        }
+      },
+      {
+        "comment": "",
+        "key": "Переложить в...",
+        "location": {
+          "startingColumn": 38,
+          "startingLine": 102
+        }
+      },
+      {
+        "comment": "",
+        "key": "Убрать из гардероба",
+        "location": {
+          "startingColumn": 38,
+          "startingLine": 105
+        }
+      }
+    ]
+  },
+  "version": 1
+}

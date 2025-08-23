@@ -1,0 +1,16 @@
+{
+  "source": "/Users/egorsheludnev/team-34/ios/Wardrobe/Wardrobe/MyLooks/AddALook.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Создать новый образ",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 18
+        }
+      }
+    ]
+  },
+  "version": 1
+}

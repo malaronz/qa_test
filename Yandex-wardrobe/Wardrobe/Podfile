@@ -1,0 +1,6 @@
+platform :ios, '15.0' # Adjust to your project's minimum iOS version
+
+target 'Wardrobe' do
+  use_frameworks!
+  pod 'SwiftLint', '~> 0.57' # Latest version as of Aug 2025
+end

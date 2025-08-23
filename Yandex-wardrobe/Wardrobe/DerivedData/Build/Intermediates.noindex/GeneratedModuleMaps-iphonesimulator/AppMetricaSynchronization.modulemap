@@ -1,0 +1,4 @@
+module AppMetricaSynchronization {
+header "AppMetricaSynchronization-Swift.h"
+export *
+}

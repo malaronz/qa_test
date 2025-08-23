@@ -1,0 +1,64 @@
+{
+  "source": "/Users/egorsheludnev/team-34/ios/Wardrobe/Wardrobe/Views/Components/DetailedItemCard.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "%lld ₽",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 135
+        }
+      },
+      {
+        "comment": "",
+        "key": "%@ %@",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 140
+        }
+      },
+      {
+        "comment": "",
+        "key": "КУПЛЕН",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 100
+        }
+      },
+      {
+        "comment": "",
+        "key": "Собрать образ",
+        "location": {
+          "startingColumn": 47,
+          "startingLine": 82
+        }
+      },
+      {
+        "comment": "",
+        "key": "Переложить в...",
+        "location": {
+          "startingColumn": 47,
+          "startingLine": 83
+        }
+      },
+      {
+        "comment": "",
+        "key": "Убрать из гардероба",
+        "location": {
+          "startingColumn": 47,
+          "startingLine": 84
+        }
+      },
+      {
+        "comment": "",
+        "key": ", по клику ·%@",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 159
+        }
+      }
+    ]
+  },
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "source": "/Users/egorsheludnev/team-34/ios/Wardrobe/Wardrobe/LookFiltersScreen/Components/LookLayoutForFilters.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "+%lld",
+        "location": {
+          "startingColumn": 38,
+          "startingLine": 55
+        }
+      }
+    ]
+  },
+  "version": 1
+}

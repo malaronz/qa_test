@@ -1,0 +1,4 @@
+module AppMetricaLog {
+umbrella header "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/SourcePackages/checkouts/appmetrica-sdk-ios/AppMetricaLog/Sources/include/AppMetricaLog/AppMetricaLog.h"
+export *
+}

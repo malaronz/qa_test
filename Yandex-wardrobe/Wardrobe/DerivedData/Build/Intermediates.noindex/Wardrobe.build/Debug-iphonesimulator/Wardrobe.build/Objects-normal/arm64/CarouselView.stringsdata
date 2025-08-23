@@ -1,0 +1,24 @@
+{
+  "source": "/Users/egorsheludnev/team-34/ios/Wardrobe/Wardrobe/CarouselScreen/CarouselView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Выберите товары для образа",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 42
+        }
+      },
+      {
+        "comment": "",
+        "key": "Сохранить образ",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 128
+        }
+      }
+    ]
+  },
+  "version": 1
+}

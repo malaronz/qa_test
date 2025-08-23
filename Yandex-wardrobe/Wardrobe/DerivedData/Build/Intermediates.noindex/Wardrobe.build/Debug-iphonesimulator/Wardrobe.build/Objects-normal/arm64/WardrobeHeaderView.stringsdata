@@ -1,0 +1,32 @@
+{
+  "source": "/Users/egorsheludnev/team-34/ios/Wardrobe/Wardrobe/WardrobeScreen/Components/WardrobeHeaderView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Готовые образы",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 25
+        }
+      },
+      {
+        "comment": "",
+        "key": "Новый образ",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 56
+        }
+      },
+      {
+        "comment": "",
+        "key": "Соберите образ с помощью алгоритмов",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 58
+        }
+      }
+    ]
+  },
+  "version": 1
+}
