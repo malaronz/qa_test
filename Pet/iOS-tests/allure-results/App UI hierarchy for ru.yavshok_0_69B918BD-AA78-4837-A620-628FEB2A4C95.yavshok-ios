@@ -1,0 +1,15 @@
+Application, 0x104911050, pid: 44824, label: 'yavshok-ios' <App element pid: 44824>
+  Window (Main), 0x10492eb10, {{0.0, 0.0}, {393.0, 852.0}} <AX element pid: 44824, elementOrHash.elementID: 4321258032.4>
+    Other, 0x10281da10, {{0.0, 0.0}, {393.0, 852.0}} <AX element pid: 44824, elementOrHash.elementID: 4321219680.5>
+      Other, 0x10490a210, {{0.0, 0.0}, {393.0, 852.0}} <AX element pid: 44824, elementOrHash.elementID: 4322268608.6>
+        Other, 0x10490f270, {{0.0, 0.0}, {393.0, 852.0}} <AX element pid: 44824, elementOrHash.elementID: 4321431440.7>
+          Other, 0x102a0b3c0, {{0.0, 0.0}, {393.0, 852.0}} <AX element pid: 44824, elementOrHash.elementID: 105553169909152.8>
+            Other, 0x102a0c160, {{0.0, 0.0}, {393.0, 852.0}} <AX element pid: 44824, elementOrHash.elementID: 4321285824.9>
+              Other, 0x102a0bdf0, {{0.0, 0.0}, {393.0, 852.0}} <AX element pid: 44824, elementOrHash.elementID: 4321330832.10>
+                Other, 0x102a0c4f0, {{0.0, 0.0}, {393.0, 852.0}} <AX element pid: 44824, elementOrHash.elementID: 4310836240.11>
+                  Other, 0x102a09e90, {{0.0, 0.0}, {393.0, 852.0}} <AX element pid: 44824, elementOrHash.elementID: 4320291328.12>
+                    Other, 0x102a0acb0, {{0.0, 0.0}, {393.0, 852.0}} <AX element pid: 44824, elementOrHash.elementID: 105553169782400.13>
+                      StaticText, 0x102a0a930, {{122.2, 119.0}, {148.7, 38.3}}, identifier: 'mainTitle', label: 'Я в ШОКе' <AX element pid: 44824, elementOrHash.elementID: 105553169771776.14>
+                      TextField, 0x104c07e20, {{20.0, 197.3}, {353.0, 56.0}}, identifier: 'emailInput', placeholderValue: 'Email' <AX element pid: 44824, elementOrHash.elementID: 4329214464.15>
+                      Button, 0x104c06af0, {{20.0, 273.3}, {353.0, 56.0}}, identifier: 'checkButton', label: 'Я в шоке?' <AX element pid: 44824, elementOrHash.elementID: 105553169782880.16>
+                      Button, 0x104c063d0, {{20.0, 349.3}, {353.0, 56.0}}, identifier: 'navigationButton', label: 'В шок' <AX element pid: 44824, elementOrHash.elementID: 105553169781760.17>

@@ -1,0 +1,4 @@
+Query chain:
+ →Find: Target Application 'ru.yavshok.yavshok-ios'
+  ↪︎Find: Descendants matching type TextField
+    ↪︎Find: Elements matching predicate '"emailInput" IN identifiers'

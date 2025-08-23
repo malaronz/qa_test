@@ -1,0 +1,61 @@
+Application, 0x100f17880, pid: 44824, label: 'yavshok-ios' <App element pid: 44824>
+  Window (Main), 0x100f29f90, {{0.0, 0.0}, {393.0, 852.0}} <AX element pid: 44824, elementOrHash.elementID: 4321258032.4>
+    Other, 0x100f08750, {{0.0, 0.0}, {393.0, 852.0}} <AX element pid: 44824, elementOrHash.elementID: 4321219680.5>
+      Other, 0x100f08870, {{0.0, 0.0}, {393.0, 852.0}} <AX element pid: 44824, elementOrHash.elementID: 4322268608.6>
+        Other, 0x100f27290, {{0.0, 0.0}, {393.0, 852.0}} <AX element pid: 44824, elementOrHash.elementID: 4321431440.7>
+          Other, 0x100f19160, {{0.0, 0.0}, {393.0, 852.0}} <AX element pid: 44824, elementOrHash.elementID: 105553169909152.8>
+            Other, 0x100f29a50, {{0.0, 0.0}, {393.0, 852.0}} <AX element pid: 44824, elementOrHash.elementID: 4321285824.9>
+              Other, 0x100f29b70, {{0.0, 0.0}, {393.0, 852.0}} <AX element pid: 44824, elementOrHash.elementID: 4321330832.10>
+                Other, 0x100f1e3d0, {{0.0, 0.0}, {393.0, 852.0}} <AX element pid: 44824, elementOrHash.elementID: 4310836240.11>
+                  Other, 0x100f1e4f0, {{0.0, 0.0}, {393.0, 852.0}} <AX element pid: 44824, elementOrHash.elementID: 4310926960.18>
+                    Other, 0x100f230a0, {{0.0, 0.0}, {393.0, 852.0}} <AX element pid: 44824, elementOrHash.elementID: 105553169892448.19>
+                      Other, 0x100f231c0, {{0.0, 0.0}, {393.0, 852.0}} <AX element pid: 44824, elementOrHash.elementID: 4310938224.20>
+                        Other, 0x100f2a390, {{0.0, 0.0}, {393.0, 852.0}} <AX element pid: 44824, elementOrHash.elementID: 4310938656.21>
+                          Other, 0x100f2a4b0, {{0.0, 0.0}, {393.0, 852.0}} <AX element pid: 44824, elementOrHash.elementID: 4321550288.22>
+                            Other, 0x100f2acd0, {{0.0, 0.0}, {393.0, 852.0}} <AX element pid: 44824, elementOrHash.elementID: 4310946448.31>
+                              Other, 0x100f2adf0, {{0.0, 0.0}, {393.0, 852.0}} <AX element pid: 44824, elementOrHash.elementID: 105553169844736.32>
+                                Other, 0x100f2af10, {{0.0, 0.0}, {393.0, 852.0}} <AX element pid: 44824, elementOrHash.elementID: 4321577088.33>
+                                  Other, 0x100f2b030, {{0.0, 0.0}, {393.0, 852.0}} <AX element pid: 44824, elementOrHash.elementID: 4321405856.34>
+                                    Other, 0x100f2b150, {{0.0, 0.0}, {393.0, 852.0}} <AX element pid: 44824, elementOrHash.elementID: 4310981808.35>
+                                      Other, 0x100f24e80, {{0.0, 0.0}, {393.0, 852.0}} <AX element pid: 44824, elementOrHash.elementID: 4321586544.36>
+                                        Other, 0x100f24fa0, {{0.0, 0.0}, {393.0, 852.0}} <AX element pid: 44824, elementOrHash.elementID: 105553169846016.37>
+                                          StaticText, 0x100f250c0, {{32.0, 119.0}, {329.0, 38.3}}, identifier: 'registerTitle', label: 'Регистрация в ШОКе' <AX element pid: 44824, elementOrHash.elementID: 105553169844896.38>
+                                          TextField, 0x100f251e0, {{20.0, 197.3}, {353.0, 56.0}}, identifier: 'emailField', placeholderValue: 'Введите email', value: test_1A90C6A2@exam... <AX element pid: 44824, elementOrHash.elementID: 4312348160.39>
+                                          SecureTextField, 0x100f2ce70, {{20.0, 273.3}, {353.0, 56.0}}, identifier: 'passwordField', placeholderValue: 'Пароль', value: •••••• <AX element pid: 44824, elementOrHash.elementID: 4337735168.40>
+                                          TextField, 0x100f2cf90, {{20.0, 349.3}, {353.0, 56.0}}, identifier: 'ageField', placeholderValue: 'Возраст', value: 18, Keyboard Focused <AX element pid: 44824, elementOrHash.elementID: 4345867264.41>
+                                          Button, 0x100f2d0b0, {{20.0, 425.3}, {353.0, 56.0}}, identifier: 'registerButton', label: 'Зарегистрироваться' <AX element pid: 44824, elementOrHash.elementID: 105553169845696.42>
+                                          Button, 0x100f2d1d0, {{20.0, 501.3}, {353.0, 56.0}}, identifier: 'backButton', label: 'Назад' <AX element pid: 44824, elementOrHash.elementID: 105553169845856.43>
+    Other, 0x10281da10, {{0.0, 0.0}, {393.0, 852.0}} <AX element pid: 44824, elementOrHash.elementID: 4320807568.226>
+      Other, 0x1028259c0, {{0.0, 0.0}, {393.0, 852.0}} <AX element pid: 44824, elementOrHash.elementID: 4321808928.227>
+        Other, 0x102825ae0, {{0.0, 0.0}, {393.0, 852.0}} <AX element pid: 44824, elementOrHash.elementID: 105553169898688.228>
+          Other, 0x102825c00, {{0.0, 0.0}, {393.0, 852.0}} <AX element pid: 44824, elementOrHash.elementID: 4321811008.229>
+            Other, 0x102825d20, {{0.0, 0.0}, {393.0, 852.0}} <AX element pid: 44824, elementOrHash.elementID: 4321811440.230>
+              Other, 0x102825e40, {{0.0, 0.0}, {393.0, 852.0}} <AX element pid: 44824, elementOrHash.elementID: 4307067824.231>
+                Other, 0x102825f60, {{0.0, 0.0}, {393.0, 852.0}} <AX element pid: 44824, elementOrHash.elementID: 4321807296.232>
+                  Other, 0x102826080, {{0.0, 0.0}, {393.0, 852.0}} <AX element pid: 44824, elementOrHash.elementID: 105553169918912.233>
+                    ScrollView, 0x1028261a0, {{0.0, 0.0}, {393.0, 852.0}} <AX element pid: 44824, elementOrHash.elementID: 4346880512.234>
+                      Other, 0x1028262c0, {{0.0, 59.0}, {393.0, 529.0}} <AX element pid: 44824, elementOrHash.elementID: 4321847504.235>
+                        Image, 0x1028263e0, {{-50.0, 9.0}, {220.0, 220.0}}, identifier: 'profileImage' <AX element pid: 44824, elementOrHash.elementID: 4320840816.237>
+                        StaticText, 0x102826500, {{116.0, 97.7}, {44.3, 21.7}}, identifier: 'userName', label: 'Neko' <AX element pid: 44824, elementOrHash.elementID: 105553169898528.238>
+                        StaticText, 0x102826620, {{116.0, 123.3}, {162.3, 17.0}}, identifier: 'ageLabel', label: 'Ты молоденькиий котик' <AX element pid: 44824, elementOrHash.elementID: 105553169899008.239>
+                        StaticText, 0x102826740, {{29.7, 191.0}, {23.0, 21.7}}, identifier: 'postsCount', label: '42' <AX element pid: 44824, elementOrHash.elementID: 105553169898048.240>
+                        StaticText, 0x102826860, {{104.7, 191.0}, {34.0, 21.7}}, identifier: 'followersCount', label: '567' <AX element pid: 44824, elementOrHash.elementID: 105553169897728.241>
+                        StaticText, 0x102826980, {{184.3, 191.0}, {36.0, 21.7}}, identifier: 'likesCount', label: '890' <AX element pid: 44824, elementOrHash.elementID: 105553169897408.242>
+                        StaticText, 0x102826aa0, {{20.0, 216.7}, {42.3, 14.3}}, identifier: 'postsCount', label: 'Постов' <AX element pid: 44824, elementOrHash.elementID: 105553169897888.243>
+                        StaticText, 0x102826bc0, {{82.3, 216.7}, {78.7, 14.3}}, identifier: 'followersCount', label: 'Подписчиков' <AX element pid: 44824, elementOrHash.elementID: 105553169897568.244>
+                        StaticText, 0x102826ce0, {{181.0, 216.7}, {42.7, 14.3}}, identifier: 'likesCount', label: 'Лайков' <AX element pid: 44824, elementOrHash.elementID: 105553169897248.245>
+                        Button, 0x102826e00, {{339.7, 196.7}, {33.3, 28.7}}, identifier: 'logoutButton', label: 'rectangle.portrait.and.arrow.right' <AX element pid: 44824, elementOrHash.elementID: 105553169897088.246>
+                        Button, 0x102826f20, {{20.0, 263.0}, {353.0, 44.0}}, identifier: 'editProfileButton', label: 'Редактировать профиль' <AX element pid: 44824, elementOrHash.elementID: 105553169896928.247>
+                        Other, 0x102827a00, {{1.0, 327.0}, {391.0, 260.3}} <AX element pid: 44824, elementOrHash.elementID: 105553169919232.248>
+                          Image, 0x102827b20, {{1.0, 327.0}, {129.7, 129.7}}, identifier: 'photo1' <AX element pid: 44824, elementOrHash.elementID: 105553169964064.250>
+                          Image, 0x102827c40, {{131.7, 327.0}, {129.7, 129.7}}, identifier: 'photo2' <AX element pid: 44824, elementOrHash.elementID: 105553169963104.251>
+                          Image, 0x102827d60, {{262.3, 327.0}, {129.7, 129.7}}, identifier: 'photo3' <AX element pid: 44824, elementOrHash.elementID: 105553169958144.252>
+                          Image, 0x102827e80, {{1.0, 457.7}, {129.7, 129.7}}, identifier: 'photo4' <AX element pid: 44824, elementOrHash.elementID: 105553169961984.253>
+                      Other, 0x10281f5e0, {{360.0, 49.0}, {30.0, 753.7}}, label: 'Vertical scroll bar, 1 page', value: 0 % <AX element pid: 44824, elementOrHash.elementID: 4307213248.236>
+                        Other, 0x10281f700, {{387.0, 282.0}, {3.0, 517.7}} <AX element pid: 44824, elementOrHash.elementID: 4307213680.249>
+                      Other, 0x10281f820, {{360.0, 49.0}, {30.0, 753.7}}, label: 'Vertical scroll bar, 1 page', value: 0 % <AX element pid: 44824, elementOrHash.elementID: 4307213248.236>
+                        Other, 0x10281f940, {{387.0, 282.0}, {3.0, 517.7}} <AX element pid: 44824, elementOrHash.elementID: 4307213680.249>
+  Window, 0x10281fa60, {{0.0, 0.0}, {393.0, 852.0}} <AX element pid: 44824, elementOrHash.elementID: 4337851904.44>
+    Other, 0x10281fb80, {{0.0, 0.0}, {393.0, 852.0}} <AX element pid: 44824, elementOrHash.elementID: 4311127712.46>
+      Other, 0x10281fca0, {{0.0, 0.0}, {393.0, 852.0}} <AX element pid: 44824, elementOrHash.elementID: 4311037712.48>
+      Other, 0x10281fdc0, {{0.0, 852.0}, {393.0, 233.0}} <AX element pid: 44824, elementOrHash.elementID: 4310955392.49>
