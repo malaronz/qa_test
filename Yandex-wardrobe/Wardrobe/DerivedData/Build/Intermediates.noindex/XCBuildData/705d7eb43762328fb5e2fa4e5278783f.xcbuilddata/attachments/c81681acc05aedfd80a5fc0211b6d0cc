@@ -1,4 +1,0 @@
-module AppMetricaIdentifiers {
-header "AppMetricaIdentifiers-Swift.h"
-export *
-}

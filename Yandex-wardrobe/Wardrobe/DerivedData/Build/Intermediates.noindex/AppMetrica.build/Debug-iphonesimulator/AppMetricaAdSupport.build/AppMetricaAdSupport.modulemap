@@ -1,4 +1,0 @@
-module AppMetricaAdSupport {
-umbrella header "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/SourcePackages/checkouts/appmetrica-sdk-ios/AppMetricaAdSupport/Sources/include/AppMetricaAdSupport/AppMetricaAdSupport.h"
-export *
-}

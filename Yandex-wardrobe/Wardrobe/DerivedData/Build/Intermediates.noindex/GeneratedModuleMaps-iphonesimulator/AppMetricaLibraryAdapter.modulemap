@@ -1,4 +1,0 @@
-module AppMetricaLibraryAdapter {
-header "AppMetricaLibraryAdapter-Swift.h"
-export *
-}

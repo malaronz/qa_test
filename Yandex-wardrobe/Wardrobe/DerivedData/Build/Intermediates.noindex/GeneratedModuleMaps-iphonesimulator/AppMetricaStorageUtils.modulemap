@@ -1,4 +1,0 @@
-module AppMetricaStorageUtils {
-umbrella header "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/SourcePackages/checkouts/appmetrica-sdk-ios/AppMetricaStorageUtils/Sources/include/AppMetricaStorageUtils/AppMetricaStorageUtils.h"
-export *
-}

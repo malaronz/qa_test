@@ -1,4 +1,0 @@
-module AppMetricaCoreExtension {
-umbrella header "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/SourcePackages/checkouts/appmetrica-sdk-ios/AppMetricaCoreExtension/Sources/include/AppMetricaCoreExtension/AppMetricaCoreExtension.h"
-export *
-}

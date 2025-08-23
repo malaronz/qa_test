@@ -1,4 +1,0 @@
-module AppMetricaHostState {
-umbrella header "/Users/egorsheludnev/team-34/ios/Wardrobe/DerivedData/SourcePackages/checkouts/appmetrica-sdk-ios/AppMetricaHostState/Sources/include/AppMetricaHostState/AppMetricaHostState.h"
-export *
-}
